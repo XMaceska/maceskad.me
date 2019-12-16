@@ -16,8 +16,6 @@ I am 26 yo student living in Prague
 
 ## Contact
 
-Prague <br />
-Czechia <br />
 Email: [maceskad@natur.cuni.cz]
 
 
