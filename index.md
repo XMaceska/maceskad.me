@@ -12,7 +12,7 @@ I am facing lots of new experiences and learning new stuffs everyday. I cannot r
 
 On this webpage you can find projects, which I am focusing on. Moreover my travelling experiences also news about my hobbies and lastly summary of each month of my life including most important events and knowledges.<br>
 
-I am 26 yo student living in Praguesssss
+I am 26 yo student living in Prague
 
 ## Contact
 
