@@ -3,14 +3,14 @@
     - subtitle: "3D Modeling"
       subhref: "/3D_modeling"
     - subtitle: "Programming"
-      subhref: "/misc/item-2/"
+      subhref: "/Programming"
       
 - title: "Activities"
-  href: "/research/"
+  href: "/activities_edit/"
 
 - title: "CV"
-  href: "/cv/"
+  href: "/cv_edit/"
 
 
 - title: "Blog"
-  href: "/blog/"
+  href: "/blog_edit/"

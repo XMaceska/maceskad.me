@@ -19,7 +19,7 @@ Here is the much awaited blog.
 //IMAGE
 {% endfor %}
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ "now" | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
