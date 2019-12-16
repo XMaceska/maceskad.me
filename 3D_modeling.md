@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Blog
+title: 3D modeling
 permalink: /3D_modeling/
 ---
-
-Here is the much awaited blog.
+I am doing 3D visualization of real or unreal objects. On that page you can find all my projects I did or I am working on.
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -13,11 +12,9 @@ Here is the much awaited blog.
     {% assign year = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
-{% for post in site.posts %}
-<img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
-{% endfor %}
+    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
   <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ "now" | date:"%Y-%m-%d" }}</time>
+    <time datetime="{{ "post.date" | date:"%Y-%m-%d" }}">{{ "now" | date:"%Y-%m-%d" }}</time>
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}

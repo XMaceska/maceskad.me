@@ -15,7 +15,7 @@ images:
 
 This is visualization of Campus Albertov
 
-<ul class="2016-02-08-Chewbaca-is-talking-in-his-sleep">
+<ul class="2019-12-16-Campus Albertov">
   {% for image in page.images %}
     <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   {% endfor %}
