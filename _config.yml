@@ -1,5 +1,5 @@
-title: David Maceska
-description: Personal Website
+title: Geeky corner
+description: Much-Worse Jekyll theme for academic page and blog
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
