@@ -1,7 +1,7 @@
 - title: "Projects"
   subcategories:
-    - subtitle: "3D Modelling"
-      subhref: "/misc"
+    - subtitle: "3D Modeling"
+      subhref: "/3D_modeling"
     - subtitle: "Programming"
       subhref: "/misc/item-2/"
       

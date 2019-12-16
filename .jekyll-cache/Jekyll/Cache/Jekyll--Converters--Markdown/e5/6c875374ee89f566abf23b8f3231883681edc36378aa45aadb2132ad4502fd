@@ -1,22 +1,13 @@
----
-layout: page
-title: 3D Modeling
-permalink: /3D_modeling/
-image: School_resized.jpg
----
+I"6<h2 id="campus-albertov">Campus Albertov</h2>
+<div class="captioned-img alignleft">
+    <a href="images/School_resized.jpg">
+    
+    <img src="images/School_resized.jpg" height="" />
+    </a>
+</div>
 
-
-## Campus Albertov
-{% include image.html url="images/School_resized.jpg" caption="" max_width="300px" align="left" %}
-
-Visualization showing current appearance of University campus Albertov situated at Prague 2
-
-
-
-<br><br><br><br>
-
-
-
+<p>Visualization showing current appearance of University campus Albertov situated at Prague 2</p>
+<p> 
 ## Cooler but boring hobby to prove you are smart
 Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 
@@ -26,3 +17,5 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 ## Ancient hobby which is not cool anymore
 
 Consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+</p>
+:ET
