@@ -1,0 +1,12 @@
+
+http://localhost:4000F:/Git/Git//blog/
+http://localhost:4000F:/Git/Git//cv/
+http://localhost:4000F:/Git/Git//feed.xml
+http://localhost:4000F:/Git/Git//
+http://localhost:4000F:/Git/Git//css/main.css
+http://localhost:4000F:/Git/Git//misc/
+http://localhost:4000F:/Git/Git//research/
+http://localhost:4000F:/Git/Git//sitemap.txt
+http://localhost:4000F:/Git/Git//css/main.css.map
+
+http://localhost:4000F:/Git/Git//blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
