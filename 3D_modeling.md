@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interests
+title: 3D Modeling
 permalink: /misc/
 ---
 
