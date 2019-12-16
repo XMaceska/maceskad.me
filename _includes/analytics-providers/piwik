@@ -7,4 +7,6 @@
     piwikTracker.trackPageView();
     piwikTracker.enableLinkTracking();
   } catch( err ) {}
+>>>>>>> 6b6018e878fcaf9f3f15d3a7612e8e142814b248
+>>>>>>> 2d7bb8093c378addb4a5c25e6748d29eea4ffebf
 </script><noscript><p><img src="http://{{ site.analytics.piwik.baseURL }}/piwik.php?idsite={{ site.analytics.piwik.idsite }}" style="border:0" alt="" /></p></noscript>
