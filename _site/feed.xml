@@ -5,22 +5,45 @@
     <description>Personal websita</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Dec 2019 21:35:45 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2019 21:35:45 +0100</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2019 22:36:32 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2019 22:36:32 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Musov</title>
+        <description>&lt;p&gt;This is visualization of Abanonded village Musov (Mushau)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/12/16/Musov</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/12/16/Musov</guid>
+        
+        
+        <category>3ds</category>
+        
+        <category>Max,</category>
+        
+        <category>SketchUp</category>
+        
+      </item>
     
       <item>
         <title>Campus Albertov</title>
         <description>&lt;p&gt;This is visualization of Campus Albertov&lt;/p&gt;
+
+&lt;ul class=&quot;2016-02-08-Chewbaca-is-talking-in-his-sleep&quot;&gt;
+  
+    &lt;li&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;Apple Pie&quot; /&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;img src=&quot;/images/2.jpg&quot; alt=&quot;Birthday Cake&quot; /&gt;&lt;/li&gt;
+  
+    &lt;li&gt;&lt;img src=&quot;/images/3.jpg&quot; alt=&quot;Black Forest&quot; /&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep</guid>
         
-        
-        <category>Lumion,</category>
-        
-        <category>SketchUp</category>
         
       </item>
     
