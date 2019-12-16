@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Projects
 pubs:
 
     - title:   "Paper title in 3-7 words that sound like Clingon"
