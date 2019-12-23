@@ -1,6 +1,6 @@
 ---
 layout: page
-title: David Maceska
+title:
 permalink: /
 ---
 
