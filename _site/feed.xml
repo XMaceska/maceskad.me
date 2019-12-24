@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Dec 2019 00:09:35 +0100</pubDate>
-    <lastBuildDate>Tue, 24 Dec 2019 00:09:35 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Dec 2019 01:35:06 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Dec 2019 01:35:06 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -16,13 +16,6 @@
 &lt;p&gt;It was my second paid job for National culture heritage.&lt;/p&gt;
 
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;850&quot;&gt;&lt;/script&gt;
-
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/16M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/16M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
 
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/1M.jpg&quot;&gt;
@@ -38,6 +31,166 @@
     &lt;/a&gt;
 &lt;/div&gt;
 
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/3M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/3M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/4M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/4M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/5M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/5M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/6M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/6M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/7M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/7M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/8M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/8M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/9M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/9M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/10M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/10M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/11M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/11M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/12M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/12M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/13M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/13M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/14M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/14M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/15M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/15M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/16M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/16M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/17M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/17M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/18M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/18M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/19M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/19M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/20M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/20M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/21M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/21M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/22M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/22M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/23M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/23M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/24M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/24M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/25M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/25M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2019/12/16/Musov</link>
