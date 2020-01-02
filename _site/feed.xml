@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jan 2020 22:25:59 +0100</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 22:25:59 +0100</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2020 23:04:49 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2020 23:04:49 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -20,6 +20,7 @@
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;800&quot;&gt;&lt;/script&gt;
 hosted with: Theasys.io
 &lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Renders &lt;h3&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/1M.jpg&quot;&gt;
     
@@ -27,7 +28,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;School&lt;/p&gt;
+School
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/2M.jpg&quot;&gt;
     
@@ -35,6 +36,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
+Ortstrasse
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/3M.jpg&quot;&gt;
     
@@ -42,13 +44,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/4M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/4M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+School and square
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/5M.jpg&quot;&gt;
     
@@ -56,13 +52,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/6M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/6M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+Church of saint Linhart
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/7M.jpg&quot;&gt;
     
@@ -70,6 +60,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
+Townhall and statute of saint Jan Nepomucký
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/8M.jpg&quot;&gt;
     
@@ -77,6 +68,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
+Church of saint Linhart
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/9M.jpg&quot;&gt;
     
@@ -84,6 +76,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
+Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/10M.jpg&quot;&gt;
     
@@ -91,13 +84,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/11M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/11M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+Rainy weather
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/12M.jpg&quot;&gt;
     
@@ -105,6 +92,7 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
+School in rainy weather
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/13M.jpg&quot;&gt;
     
@@ -196,10 +184,18 @@ hosted with: Theasys.io
     &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt; Compare 3D model with old photographs &lt;/h2&gt;
-&lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/4M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/4M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
+When you left-click on image it will swap old photo with render
 &lt;p&gt;
-    &lt;img alt=&quot;&quot; src=&quot;images/5M.jpg&quot; style=&quot;height: 634px; width: 1131px&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;img src=&quot;/images/5M.jpg&quot; alt=&quot;Purkynuv ustav&quot; id=&quot;imgClickAndChange&quot; /&gt;
 &lt;script&gt;     
 var images = [&quot;images/5M.jpg&quot;, &quot;images/5MO.jpg&quot;]
 
@@ -240,7 +236,7 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
   event.target.src = images3[imgState];
 });
 &lt;/script&gt; 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/h3&gt;&lt;/h3&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2019/12/16/Musov</link>
