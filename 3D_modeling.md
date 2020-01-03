@@ -19,4 +19,4 @@ I am doing 3D visualization of real or unreal objects. On that page you can find
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
-</ul>
+

@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jan 2020 23:04:49 +0100</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 23:04:49 +0100</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2020 23:20:35 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2020 23:20:35 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -20,182 +20,138 @@
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;800&quot;&gt;&lt;/script&gt;
 hosted with: Theasys.io
 &lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt; Renders &lt;h3&gt;
+&lt;h3&gt; Renders &lt;/h3&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/1M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/1M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;School
 &lt;/div&gt;
 
-School
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/2M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/2M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Ortstrasse
 &lt;/div&gt;
 
-Ortstrasse
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/3M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/3M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;School and square
 &lt;/div&gt;
 
-School and square
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/5M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/5M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Church of saint Linhart
 &lt;/div&gt;
 
-Church of saint Linhart
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/7M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/7M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Townhall and statute of saint Jan Nepomucký
 &lt;/div&gt;
 
-Townhall and statute of saint Jan Nepomucký
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/8M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/8M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Church of saint Linhart
 &lt;/div&gt;
 
-Church of saint Linhart
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/9M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/9M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
 &lt;/div&gt;
 
-Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/10M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/10M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-Rainy weather
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/12M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/12M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-School in rainy weather
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/13M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/13M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Square
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/14M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/14M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/15M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/15M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Square from top
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/16M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/16M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Village in rainy weather
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/17M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/17M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Village in evening
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/18M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/18M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/19M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/19M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/20M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/20M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/21M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/21M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Foggy weather
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/22M.jpg&quot;&gt;
+    &lt;a href=&quot;images/12M.jpg&quot;&gt;
     
-    &lt;img src=&quot;images/22M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;img src=&quot;images/12M.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;School and rainy weather
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/23M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/23M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Village in evening
 &lt;/div&gt;
 
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/24M.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/24M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/25M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/25M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Roof detail
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/4M.jpg&quot;&gt;
     
     &lt;img src=&quot;images/4M.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;
+    &lt;/a&gt;Village from top
 &lt;/div&gt;
 
-
 &lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
-When you left-click on image it will swap old photo with render
+&lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;/images/5M.jpg&quot; alt=&quot;Purkynuv ustav&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;img src=&quot;/images/5M.jpg&quot; alt=&quot;Square&quot; id=&quot;imgClickAndChange&quot; /&gt;
 &lt;script&gt;     
 var images = [&quot;images/5M.jpg&quot;, &quot;images/5MO.jpg&quot;]
 
@@ -209,7 +165,7 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
 });
 &lt;/script&gt; 
 &lt;p&gt;
-    &lt;img alt=&quot;&quot; src=&quot;images/6M.jpg&quot; style=&quot;height: 634px; width: 1131px&quot; id=&quot;imgClickAndChange2&quot; /&gt;
+    &lt;img alt=&quot;Townhall&quot; src=&quot;images/6M.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;
 &lt;script&gt;     
 var images2 = [&quot;images/6M.jpg&quot;, &quot;images/6MO.jpg&quot;]
 
@@ -223,7 +179,7 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
 });
 &lt;/script&gt; 
 &lt;p&gt;
-    &lt;img alt=&quot;&quot; src=&quot;images/3M.jpg&quot; style=&quot;height: 634px; width: 1131px&quot; id=&quot;imgClickAndChange3&quot; /&gt;
+    &lt;img alt=&quot;Square2&quot; src=&quot;images/3M.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;
 &lt;script&gt;     
 var images3 = [&quot;images/3M.jpg&quot;, &quot;images/3MO.jpg&quot;]
 
@@ -236,7 +192,23 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
   event.target.src = images3[imgState];
 });
 &lt;/script&gt; 
-&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/h3&gt;&lt;/h3&gt;
+&lt;p&gt;
+    &lt;img alt=&quot;Church&quot; src=&quot;images/8M.jpg&quot; id=&quot;imgClickAndChange4&quot; /&gt;
+&lt;script&gt;     
+var images4 = [&quot;images/8M.jpg&quot;, &quot;images/8MO.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange4&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images4[imgState];
+});
+&lt;/script&gt; 
+&lt;h3&gt; Video &lt;/h3&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NgXLj6BLhOU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2019/12/16/Musov</link>
