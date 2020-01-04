@@ -5,21 +5,24 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jan 2020 23:20:35 +0100</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2020 23:20:35 +0100</lastBuildDate>
+    <pubDate>Sat, 04 Jan 2020 18:46:16 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Jan 2020 18:46:16 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Abandoned village Musov</title>
         <description>&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
 
-&lt;p&gt;It was my second paid job for National culture heritage.&lt;/p&gt;
+&lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
+You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
 
+&lt;p&gt;It was my second paid job for National culture heritage (NAKI). 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt; Interactive 3D model &lt;/h3&gt;
 &lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;800&quot;&gt;&lt;/script&gt;
 hosted with: Theasys.io
-&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt; Renders &lt;/h3&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/1M.jpg&quot;&gt;
@@ -148,6 +151,7 @@ hosted with: Theasys.io
     &lt;/a&gt;Village from top
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
 &lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
 &lt;p&gt;
@@ -207,6 +211,8 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
 });
 &lt;/script&gt; 
 &lt;h3&gt; Video &lt;/h3&gt;
+Fly-through village:
+&lt;br /&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NgXLj6BLhOU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
@@ -217,7 +223,9 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
         
         <category>3ds</category>
         
-        <category>Max,</category>
+        <category>Max</category>
+        
+        <category>2019,</category>
         
         <category>Lumion</category>
         
@@ -229,45 +237,107 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
     
       <item>
         <title>Campus Albertov</title>
-        <description>&lt;p&gt;This is visualization of Campus Albertov&lt;/p&gt;
+        <description>&lt;p&gt;This is visualization of Campus Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.&lt;/p&gt;
 
-&lt;ul class=&quot;2019-12-16-Campus Albertov&quot;&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/1.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/2.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/3.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/4.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/5.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/6.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/7.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/8.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/9.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-&lt;/ul&gt;
+&lt;p&gt;It was my enty-project into 3D modeling. The whole proces of this project was made together with teachers and other students at my university. Main benefit from this project is, that I got used to on working in group. Each building was modeled by different student and my final job was to group, edit and finish all building. Also I made surface, textures and and whole vizualization for this model. 
+&lt;br /&gt;
+You can download modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/1K18rs1Ysk3W-sxQRkngcqBCPPDChf6AC/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
+
+&lt;p&gt;Google Streetview from Campus Albertov:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt; Interactive 3D Model &lt;/h3&gt;
+&lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find place where campus is situtated.
+&lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa&quot; data-height=&quot;600&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3&gt; Renders &lt;/h3&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA1.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA1.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Purkynuv ustav
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA2.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street east
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA3.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA3.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street west
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA5.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA5.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA7.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA7.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science in rain
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA8.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA8.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street from street Na Slupi
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA9.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA9.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;CVUT building from back
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA10.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA10.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of chemistry
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA11.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA11.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Campus Albertov from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Video &lt;/h3&gt;
+&lt;p&gt;Fly-through Campus Albertov&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K7i0gQ3LmLQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2019/12/16/Campus-Albertov</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/12/16/Campus-Albertov</guid>
         
         
-        <category>SketchUp,Lumion</category>
+        <category>SketchUp</category>
+        
+        <category>2019,</category>
+        
+        <category>Lumion</category>
         
         <category>9</category>
         
@@ -275,68 +345,150 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
     
       <item>
         <title>Abandoned village Jablonec</title>
-        <description>&lt;p&gt;This is visualization of abandoneded village Jablonec (Ogfolderhaid)&lt;/p&gt;
+        <description>&lt;p&gt;This is visualization of abandoned village Jablonec (Ogfolderhaid)
+Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment.&lt;/p&gt;
 
-&lt;ul class=&quot;2018-09-01-Jablonec&quot;&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo2.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo3.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo4.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo5.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo6.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo7.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo8.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo9.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo10.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo11.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo12.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo13.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo14.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo15.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo16.jpg&quot; alt=&quot;Purkynuv ustav&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo17.jpg&quot; alt=&quot;Albertov&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo18.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-    &lt;li&gt;&lt;img src=&quot;/images/photo19.jpg&quot; alt=&quot;Purkynuv ustav2&quot; /&gt;&lt;/li&gt;
-    &lt;br /&gt;
-  
-&lt;/ul&gt;
+&lt;p&gt;Earth surface was created from vector-based digital contour model Zabaged. Size of building was estimated from cadastral map and old photographies.&lt;/p&gt;
+
+&lt;p&gt;That was my first paid job for National Cultural heritage (NAKI)&lt;/p&gt;
+
+&lt;h3&gt; Renders &lt;/h3&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J1.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J1.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Purkynuv ustav
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J2.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street east
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J3.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J3.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street west
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J4.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J4.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J5.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J5.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science in rain
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J6.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J6.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street from street Na Slupi
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J7.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J7.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;CVUT building from back
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J8.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J8.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of chemistry
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J9.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J9.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Campus Albertov from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J10.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J10.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street east
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J11.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J11.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street west
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J12.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J12.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J13.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J13.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science in rain
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J14.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J14.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street from street Na Slupi
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J15.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J15.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;CVUT building from back
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J16.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J16.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of chemistry
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J17.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J17.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Campus Albertov from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/2018/09/01/Jablonec</link>
@@ -345,7 +497,9 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
         
         <category>3ds</category>
         
-        <category>Max,</category>
+        <category>Max</category>
+        
+        <category>2018,</category>
         
         <category>Lumion</category>
         

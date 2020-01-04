@@ -1,0 +1,205 @@
+I")<p>This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.</p>
+
+<p>The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
+You can download whole modeling procedure text <a href="https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing">here.</a> (czech language only)</p>
+
+<p>It was my second paid job for National culture heritage (NAKI). 
+<br /><br /></p>
+<h3> Interactive 3D model </h3>
+<p>You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
+<script async="" src="https://www.theasys.io/static/embed.js" data-theasys="vWEdS8mWRAgIomQAykG3TFmUqPPbpb" data-height="800"></script>
+hosted with: Theasys.io
+<br /><br /></p>
+<h3> Renders </h3>
+<div class="captioned-img aligncenter">
+    <a href="images/1M.jpg">
+    
+    <img src="images/1M.jpg" height="" />
+    </a>School
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/2M.jpg">
+    
+    <img src="images/2M.jpg" height="" />
+    </a>Ortstrasse
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/3M.jpg">
+    
+    <img src="images/3M.jpg" height="" />
+    </a>School and square
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/5M.jpg">
+    
+    <img src="images/5M.jpg" height="" />
+    </a>Church of saint Linhart
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/7M.jpg">
+    
+    <img src="images/7M.jpg" height="" />
+    </a>Townhall and statute of saint Jan Nepomucký
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/8M.jpg">
+    
+    <img src="images/8M.jpg" height="" />
+    </a>Church of saint Linhart
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/9M.jpg">
+    
+    <img src="images/9M.jpg" height="" />
+    </a>Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/13M.jpg">
+    
+    <img src="images/13M.jpg" height="" />
+    </a>Square
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/15M.jpg">
+    
+    <img src="images/15M.jpg" height="" />
+    </a>Square from top
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/16M.jpg">
+    
+    <img src="images/16M.jpg" height="" />
+    </a>Village in rainy weather
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/17M.jpg">
+    
+    <img src="images/17M.jpg" height="" />
+    </a>Village in evening
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/21M.jpg">
+    
+    <img src="images/21M.jpg" height="" />
+    </a>Foggy weather
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/12M.jpg">
+    
+    <img src="images/12M.jpg" height="" />
+    </a>School and rainy weather
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/23M.jpg">
+    
+    <img src="images/23M.jpg" height="" />
+    </a>Village in evening
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/25M.jpg">
+    
+    <img src="images/25M.jpg" height="" />
+    </a>Roof detail
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/4M.jpg">
+    
+    <img src="images/4M.jpg" height="" />
+    </a>Village from top
+</div>
+
+<p><br /><br /></p>
+<h3> Compare 3D model with old photographs </h3>
+<p>When you left-click on image it will swap old photo with render</p>
+<p>
+<img src="/images/5M.jpg" alt="Square" id="imgClickAndChange" />
+<script>     
+var images = ["images/5M.jpg", "images/5MO.jpg"]
+
+var imgState = 0;
+
+var imgTag = document.getElementById("imgClickAndChange");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images[imgState];
+});
+</script> 
+<p>
+    <img alt="Townhall" src="images/6M.jpg" id="imgClickAndChange2" />
+<script>     
+var images2 = ["images/6M.jpg", "images/6MO.jpg"]
+
+var imgState = 0;
+
+var imgTag = document.getElementById("imgClickAndChange2");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images2[imgState];
+});
+</script> 
+<p>
+    <img alt="Square2" src="images/3M.jpg" id="imgClickAndChange3" />
+<script>     
+var images3 = ["images/3M.jpg", "images/3MO.jpg"]
+
+var imgState = 0;
+
+var imgTag = document.getElementById("imgClickAndChange3");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images3[imgState];
+});
+</script> 
+<p>
+    <img alt="Church" src="images/8M.jpg" id="imgClickAndChange4" />
+<script>     
+var images4 = ["images/8M.jpg", "images/8MO.jpg"]
+
+var imgState = 0;
+
+var imgTag = document.getElementById("imgClickAndChange4");
+
+imgTag.addEventListener("click", function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images4[imgState];
+});
+</script> 
+<h3> Video </h3>
+Fly-throught village:
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgXLj6BLhOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p></p></p></p>
+:ET

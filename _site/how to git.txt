@@ -1,3 +1,5 @@
+bundle exec jekyll serve
+
 git add .
 git commit -m "commit note"
 git push origin master
