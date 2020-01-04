@@ -6,6 +6,9 @@
       subhref: "/Programming"
       
 - title: "Activities"
+  subcategories:
+    - subtitle: "Road cycling"
+      subhref: "/Road_cycling"
   href: "/activities_edit/"
 
 - title: "CV"
