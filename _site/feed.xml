@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Jan 2020 18:46:16 +0100</pubDate>
-    <lastBuildDate>Sat, 04 Jan 2020 18:46:16 +0100</lastBuildDate>
+    <pubDate>Sat, 04 Jan 2020 21:43:01 +0100</pubDate>
+    <lastBuildDate>Sat, 04 Jan 2020 21:43:01 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -17,6 +17,7 @@
 You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
 
 &lt;p&gt;It was my second paid job for National culture heritage (NAKI). 
+Additional info about abandoned village is &lt;a href=&quot;http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/novomlynske-nadrze&quot;&gt;here.&lt;/a&gt; (czech language only)
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt; Interactive 3D model &lt;/h3&gt;
 &lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
@@ -348,16 +349,18 @@ You can download modeling procedure text &lt;a href=&quot;https://drive.google.c
         <description>&lt;p&gt;This is visualization of abandoned village Jablonec (Ogfolderhaid)
 Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment.&lt;/p&gt;
 
-&lt;p&gt;Earth surface was created from vector-based digital contour model Zabaged. Size of building was estimated from cadastral map and old photographies.&lt;/p&gt;
+&lt;p&gt;Earth surface was created from vector-based digital contour model Zabaged. Size of buildings was estimated from cadastral map and old photographies. 
+Modelng procedure text is available &lt;a href=&quot;https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
 
-&lt;p&gt;That was my first paid job for National Cultural heritage (NAKI)&lt;/p&gt;
+&lt;p&gt;That was my first paid job for National Cultural heritage (NAKI)
+Additional info about this village is &lt;a href=&quot;http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/boletice&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
 
 &lt;h3&gt; Renders &lt;/h3&gt;
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/J1.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J1.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Purkynuv ustav
+    &lt;/a&gt;Parish church
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -365,7 +368,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J2.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J2.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street east
+    &lt;/a&gt;School
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -373,7 +376,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J3.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J3.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street west
+    &lt;/a&gt;Church from back
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -381,7 +384,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J4.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J4.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of science
+    &lt;/a&gt;Street and school
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -389,31 +392,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J5.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J5.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of science in rain
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/J6.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/J6.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street from street Na Slupi
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/J7.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/J7.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;CVUT building from back
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/J8.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/J8.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of chemistry
+    &lt;/a&gt;Village-green
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -421,7 +400,23 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J9.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J9.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Campus Albertov from top
+    &lt;/a&gt;Village-green from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J7.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J7.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Church from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/J8.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/J8.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Church from back
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -429,7 +424,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J10.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J10.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street east
+    &lt;/a&gt;Jablonec and Kmet hill
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -437,7 +432,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J11.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J11.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street west
+    &lt;/a&gt;Jablonec from north
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -445,7 +440,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J12.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J12.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of science
+    &lt;/a&gt;Church in evening
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -453,7 +448,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J13.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J13.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of science in rain
+    &lt;/a&gt;Village-green in rainy weather
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -461,7 +456,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J14.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J14.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Albertov street from street Na Slupi
+    &lt;/a&gt;Village-green from west
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -469,15 +464,7 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J15.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J15.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;CVUT building from back
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
-    &lt;a href=&quot;images/J16.jpg&quot;&gt;
-    
-    &lt;img src=&quot;images/J16.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Faculty of chemistry
+    &lt;/a&gt;Jablonec in winter
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -485,10 +472,59 @@ Village was completely (even baroque church) destroyed in 1950s. there is millit
     &lt;a href=&quot;images/J17.jpg&quot;&gt;
     
     &lt;img src=&quot;images/J17.jpg&quot; height=&quot;&quot; /&gt;
-    &lt;/a&gt;Campus Albertov from top
+    &lt;/a&gt;Jablonec from top
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
+&lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
+&lt;p&gt;
+    &lt;img alt=&quot;Street&quot; src=&quot;images/J2.jpg&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;script&gt;     
+var images = [&quot;images/J2.jpg&quot;, &quot;images/J2O.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images[imgState];
+});
+&lt;/script&gt; 
+&lt;p&gt;
+    &lt;img alt=&quot;Townhall&quot; src=&quot;images/J9.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;
+&lt;script&gt;     
+var images2 = [&quot;images/J9.jpg&quot;, &quot;images/J9O.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange2&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images2[imgState];
+});
+&lt;/script&gt; 
+&lt;p&gt;
+    &lt;img alt=&quot;Square2&quot; src=&quot;images/J8.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;
+&lt;script&gt;     
+var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange3&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images3[imgState];
+});
+&lt;/script&gt; 
+
+&lt;h3&gt; Video &lt;/h3&gt;
+Fly-through the village Jablonec
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yBfG8Soaxw4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/blog/2018/09/01/Jablonec</link>
