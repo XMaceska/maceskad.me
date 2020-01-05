@@ -12,4 +12,5 @@ One day I finished 150km ride with frined around nice hilly places near to Pragu
 <br><br>
 
 <h3> Race Day</h3>
-Race started at 5:30 AM. I felt great in morning, breakfast was great (honey with pastry - my favourite before ride). When we started there were cobblestones in first curve I was really surprised how many people (not me).  lost their bidons in that curve. First 40km was really fast paced - around 37km/h and I was thinking about how we would survive another 260km. In first hill whole peloton shattered. I was riding with my frined, but he sliped on wet rode and went into ditch and lost some time. Luckily nothing heppend to him and he didnt even fall. 
+Race started at 5:30 AM. I felt great in morning, breakfast was great (honey with pastry - my favourite before ride). When we started there were cobblestones in first curve I was really surprised how many people (not me).  lost their bidons in that curve. First 40km was really fast paced - around 37km/h and I was thinking about how we would survive another 260km. In first hill whole peloton shattered. I was riding with my frined, but he sliped on wet rode and went into ditch and lost some time. Luckily nothing happend to him and he didnt even fall. 
+Will be continued.
