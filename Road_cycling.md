@@ -4,28 +4,8 @@ title: Road cycling
 permalink: /Road_cycling/
 ---
 I am riding all kinds of fast bikes with handlebars. I have already competed several cyclo-cross, road, and track races. I am also bike messenger and I am commuting on bike anywhere in town and mostly if its possible anywhere in Czechia. 
-<h3>2019</h3>
-I did two road races.
- - firstly it was UAC Prague-Doksy, which is quite short race (73km) from Prague to town Doksy. I have already did is year ago and this year I really looked forward for this event. 
-
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture cycl %}{{ category | first }}{% endcapture %}
-    <div id="#{{ cycl | slugize }}"></div>
-    <p></p>
-
-    <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
 Feel free to follow me on Strava:
+
 <style>
   .strava-badge- { display: inline-block; height: 48px; }
   .strava-badge- img { visibility: hidden; height: 48px; }
@@ -33,3 +13,23 @@ Feel free to follow me on Strava:
   .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
 </style>
 <a href="http://strava.com/athletes/21086949" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+
+
+<h2>2019</h2>
+That was great year in cycling, I did 16 292 km, which is my personal record. Also did my longest trip in one sigle ride - 417 km.
+<h3>Races</h3>
+<ul class="listing">
+{% for post in site.cycl %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+    {% assign year = y %}
+    <li class="listing-seperator">{{ y }}</li>
+  {% endif %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+    <img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"> <a href="{{ post.url | prepend: site.baseurl }}">
+  <li class="listing-item">
+    <time datetime="{{ "post.date" | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+    <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+

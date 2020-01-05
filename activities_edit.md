@@ -1,6 +1,5 @@
 ---
 layout: page
 title: Activities
-permalink: /activities_edit/
+permalink: 
 ---
-Will be edited soon

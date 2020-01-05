@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Jan 2020 11:48:51 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Jan 2020 11:48:51 +0100</lastBuildDate>
+    <pubDate>Sun, 05 Jan 2020 21:43:24 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Jan 2020 21:43:24 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -156,7 +156,7 @@ hosted with: Theasys.io
 &lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
 &lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
 &lt;p&gt;
-&lt;img src=&quot;/images/5M.jpg&quot; alt=&quot;Square&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;img src=&quot;images/5M.jpg&quot; alt=&quot;Square&quot; id=&quot;imgClickAndChange&quot; /&gt;
 &lt;script&gt;     
 var images = [&quot;images/5M.jpg&quot;, &quot;images/5MO.jpg&quot;]
 
@@ -221,18 +221,6 @@ Fly-through village:
         <link>http://localhost:4000/blog/2019/12/16/Musov</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/12/16/Musov</guid>
         
-        
-        <category>3ds</category>
-        
-        <category>Max</category>
-        
-        <category>2019,</category>
-        
-        <category>Lumion</category>
-        
-        <category>9,</category>
-        
-        <category>Mudbox</category>
         
       </item>
     
@@ -334,13 +322,52 @@ You can download modeling procedure text &lt;a href=&quot;https://drive.google.c
         <guid isPermaLink="true">http://localhost:4000/blog/2019/12/16/Campus-Albertov</guid>
         
         
-        <category>SketchUp</category>
+      </item>
+    
+      <item>
+        <title>3D exhibition </title>
+        <description>&lt;p&gt;3D exhibition were held at our University during winter 2019. I have participated on that exhibition with 4 different posters showing my 3D models. Main purpouse of this exhibition was to show of projects, which are being made at our faculty to new potential students.
+Exhibition included 17 posters somehow related to the 3D modeling
+Full text about this exhibition is available &lt;a href=&quot;http://web.natur.cuni.cz/gis/3d/index.html&quot;&gt;here&lt;/a&gt; (czech language only).&lt;/p&gt;
+
+&lt;h2&gt; Posters &lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/uvod.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/uvod.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Úvodní poster
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/07.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/07.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;3D modelování interiétů
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/12.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/12.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Interaktivní 3D model
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/11.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/11.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Detailní fotorealistické modely
+&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/11/11/Posters</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/11/11/Posters</guid>
         
-        <category>2019,</category>
-        
-        <category>Lumion</category>
-        
-        <category>9</category>
         
       </item>
     
@@ -530,16 +557,6 @@ Fly-through the village Jablonec
         <link>http://localhost:4000/blog/2018/09/01/Jablonec</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2018/09/01/Jablonec</guid>
         
-        
-        <category>3ds</category>
-        
-        <category>Max</category>
-        
-        <category>2018,</category>
-        
-        <category>Lumion</category>
-        
-        <category>8</category>
         
       </item>
     
