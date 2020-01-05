@@ -17,10 +17,10 @@ When we drinked few non-alcoholic beers We jumped on our bikes and rides back to
 <br><br>
 You are able to view the whole race ride [here](https://www.strava.com/activities/2409401604/segments/60782696785)
 <br><br>
-{% include image.html url="images/968.png" caption="Crash" max_width="300px" align="left" %}
+{% include image.html url="images/968.PNG" caption="Crash" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/952.jpg" caption="My friend Martin" max_width="300px" align="left" %}
+{% include image.html url="images/952.JPG" caption="My friend Martin" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/956.jpg" caption="My friend Martin" max_width="300px" align="left" %}
+{% include image.html url="images/956.JPG" caption="My friend Martin" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/957.jpg" caption="My friend Martin" max_width="300px" align="left" %}
+{% include image.html url="images/957.JPG" caption="My friend Martin" max_width="300px" align="left" %}
