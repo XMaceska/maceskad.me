@@ -33,7 +33,7 @@ You are able to jump in 3D model using green arrows. Fullscreen and VR mode is a
 <br>
 {% include image.html url="images/CA7.jpg" caption="Faculty of science in rain" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA8.jpg" caption="Albertov street sketch" max_width="300px" align="center" %}
+{% include image.html url="images/CA7.2.jpg" caption="Albertov street sketch" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/CA8.jpg" caption="Albertov street from street Na Slupi" max_width="300px" align="center" %}
 <br>
