@@ -3,4 +3,4 @@ layout: page
 title: Blog
 permalink: /blog_edit/
 ---
-Will be adited soon.
+Will be edited soon.
