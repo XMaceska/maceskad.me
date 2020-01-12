@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jan 2020 21:40:46 +0100</pubDate>
-    <lastBuildDate>Sun, 12 Jan 2020 21:40:46 +0100</lastBuildDate>
+    <pubDate>Sun, 12 Jan 2020 23:40:38 +0100</pubDate>
+    <lastBuildDate>Sun, 12 Jan 2020 23:40:38 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -375,6 +375,38 @@ Full text about this exhibition is available &lt;a href=&quot;http://web.natur.c
         <pubDate>Mon, 11 Nov 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/2019/11/11/Posters</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2019/11/11/Posters</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>House at Kasperske Hory</title>
+        <description>&lt;p&gt;This is visualization house at Kasperske Hory town. This house is my dad’s property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic object would like include and what not.&lt;/p&gt;
+
+&lt;p&gt;The whole outter house was made in 3ds Max by me. The interior of the house was created in SketchUp beacouse of my dad wanted to cooeparte with me on the model. We also madel pipes distribution the building. MOreover we created furtniture and rooms orientation. my dad was asked by few people if they could buy a flat in that building after it will be finished. Now we used big advantage of already created 3D model and designed the whole flat as client want. I made also video fly-throught the flat and now it feels more realisteic and its more easy to imaginw how it will be.&lt;/p&gt;
+
+&lt;p&gt;This project was my first use of CAD in practice.&lt;/p&gt;
+
+&lt;div class=&quot;captioned-img alignleft&quot;&gt;
+    &lt;a href=&quot;kh30.jpg&quot;&gt;
+    
+    &lt;img src=&quot;kh30.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Front of the building
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img alignleft&quot;&gt;
+    &lt;a href=&quot;kh23.jpg&quot;&gt;
+    
+    &lt;img src=&quot;kh23.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;back of the building
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory</guid>
         
         
       </item>

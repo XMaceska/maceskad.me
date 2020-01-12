@@ -21,6 +21,6 @@ You are able to view the whole race ride [here](https://www.strava.com/activitie
 <br>
 {% include image.html url="images/952.JPG" caption="My friend Martin" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/956.JPG" caption="My friend Martin" max_width="300px" align="left" %}
+{% include image.html url="images/956.JPG" caption="Me" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/957.JPG" caption="My friend Martin" max_width="300px" align="left" %}
+{% include image.html url="images/957.JPG" caption="Helmet after crash" max_width="300px" align="left" %}

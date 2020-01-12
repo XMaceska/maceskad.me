@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog_edit/
 ---
 <ul class="listing">
-{% for post in site.cycl%}
+{% for post in site.blo %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

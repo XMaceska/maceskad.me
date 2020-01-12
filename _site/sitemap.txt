@@ -18,4 +18,5 @@ http://localhost:4000/css/main.css.map
 http://localhost:4000/blog/2019/12/16/Musov
 http://localhost:4000/blog/2019/12/16/Campus-Albertov
 http://localhost:4000/blog/2019/11/11/Posters
+http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory
 http://localhost:4000/blog/2018/09/01/Jablonec
