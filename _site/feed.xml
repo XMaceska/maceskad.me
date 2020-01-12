@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jan 2020 11:45:02 +0100</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2020 11:45:02 +0100</lastBuildDate>
+    <pubDate>Sun, 12 Jan 2020 19:21:58 +0100</pubDate>
+    <lastBuildDate>Sun, 12 Jan 2020 19:21:58 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -277,6 +277,14 @@ You can download modeling procedure text &lt;a href=&quot;https://drive.google.c
     
     &lt;img src=&quot;images/CA7.jpg&quot; height=&quot;&quot; /&gt;
     &lt;/a&gt;Faculty of science in rain
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA7.2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA7.2.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street sketch
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
