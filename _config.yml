@@ -37,9 +37,7 @@ analytics:
     piwik:
         baseURL: '' # Piwik installation address (without protocol)
         idsite: ''  # the id of the site on Piwik
-collections:
-  cycl:
-    output: true
+
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
 # Set 'provider' to false to turn commenting off globally.
