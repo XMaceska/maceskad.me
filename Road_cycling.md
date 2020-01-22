@@ -5,8 +5,7 @@ permalink: /Road_cycling/
 ---
 
 
-<meta charset=utf-8 />
-<title>GPX trackpoints and waypoints</title>
+
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
 <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
@@ -20,13 +19,7 @@ permalink: /Road_cycling/
 </style>
 
 
-<!--// slider -->
-<div id="slider" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
-<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
-<input type="number" min='1' max='3' id="input-number-min">
-<input type="number" min='2' max='3' id="input-number-max">
-</div>
-    
+
 <!--// map --> 
 <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
 <div id='map'></div>
@@ -75,56 +68,6 @@ var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad
 //    .addTo(map);
 //var runLayer = omnivore.gpx("3.gpx",null,customLayerRide)
 //    .addTo(map);
-    
-    
-    
-<!--// slider -->
-var slidervar = document.getElementById('slider');
-noUiSlider.create(slidervar, {
-    connect: true,
-    start: [ 1, 3 ],
-    range: {
-        min: 1,
-        max: 3
-    }
-});
-    
-document.getElementById('input-number-min').setAttribute("value", 1);
-document.getElementById('input-number-max').setAttribute("value", 3);
-
-var inputNumberMin = document.getElementById('input-number-min');
-var inputNumberMax = document.getElementById('input-number-max');
-inputNumberMin.addEventListener('change', function(){
-    slidervar.noUiSlider.set([this.value, null]);
-});
-inputNumberMax.addEventListener('change', function(){
-    slidervar.noUiSlider.set([null, this.value]);
-});
-
-slidervar.noUiSlider.on('update', function( values, handle ) {
-    //handle = 0 if min-slider is moved and handle = 1 if max slider is moved
-    if (handle==0){
-        document.getElementById('input-number-min').value = values[0];
-    } else {
-        document.getElementById('input-number-max').value =  values[1];
-    }
-//we will definitely do more here...wait
-})
-rangeMin = document.getElementById('input-number-min').value;
-rangeMax = document.getElementById('input-number-max').value;
-
-cluster_popplaces.clearLayers();
-//and repopulate it
-popplaces = new L.geoJson(exp_popplaces,{
-    onEachFeature: pop_popplaces,
-        filter:
-            function(feature, layer) {
-                 return (feature.properties.pop_max <= rangeMax) && (feature.properties.pop_max >= rangeMin);
-            },
-    pointToLayer: popplaces_marker
-})
-//and back again into the cluster group
-cluster_popplaces.addLayer(popplaces);
         
 </script>
 
