@@ -5,7 +5,6 @@ permalink: /Road_cycling/
 ---
 
 
-<head>
 <meta charset=utf-8 />
 <title>GPX trackpoints and waypoints</title>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
@@ -19,8 +18,8 @@ permalink: /Road_cycling/
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
 </style>
-</head>
-<body>
+
+
 <!--// slider -->
 <div id="slider" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
 <div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
@@ -128,7 +127,6 @@ popplaces = new L.geoJson(exp_popplaces,{
 cluster_popplaces.addLayer(popplaces);
         
 </script>
-</body>
 
 
 TED I am riding all kinds of fast bikes with handlebars. I have already competed several cyclo-cross, road, and track races. I am also bike messenger and I am commuting on bike anywhere in town and mostly if its possible anywhere in Czechia. 
