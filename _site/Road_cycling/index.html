@@ -119,6 +119,11 @@ var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
+var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/prvnich25.gpx',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
     
     
     
