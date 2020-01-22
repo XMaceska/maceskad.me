@@ -4,7 +4,7 @@ title: Road cycling
 permalink: /Road_cycling/
 ---
 
-<html>
+
 <head>
 <meta charset=utf-8 />
 <title>GPX trackpoints and waypoints</title>
@@ -129,7 +129,7 @@ cluster_popplaces.addLayer(popplaces);
         
 </script>
 </body>
-</html>
+
 
 TED I am riding all kinds of fast bikes with handlebars. I have already competed several cyclo-cross, road, and track races. I am also bike messenger and I am commuting on bike anywhere in town and mostly if its possible anywhere in Czechia. 
 Feel free to follow me on Strava:
