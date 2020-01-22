@@ -3,7 +3,7 @@ layout: page
 title: 3D modeling
 permalink: /3D_modeling/
 ---
-TED I am doing 3D visualization of real or unreal objects. On that page you can find all my projects I did or I am working on.
+I am doing 3D visualization of real or unreal objects. On that page you can find all my projects I did or I am working on.
 
 <ul class="listing">
 {% for post in site.posts %}
