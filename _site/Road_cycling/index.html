@@ -96,7 +96,7 @@
 
 	L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
 
-  var url = 'demo.gpx'; // URL al archivo GPX 
+  var url = "https://www.dropbox.com/s/62gqv6r9lvy0esp/Sraz_v_Sulici_.gpx?dl=0" ; // URL al archivo GPX 
   new L.GPX(url, {async: true}).on('loaded', function(e) {
     map.fitBounds(e.target.getBounds());
   }).addTo(map);

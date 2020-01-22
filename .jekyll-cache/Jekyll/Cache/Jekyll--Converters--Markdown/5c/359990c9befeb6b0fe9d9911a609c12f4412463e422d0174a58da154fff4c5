@@ -1,0 +1,9 @@
+I"�<h3>Prosinec 2019</h3>
+<p>Prosincem roku 2019 začínám pravidelný měsíčník blogu.</p>
+<ul>
+  <li>Naučil jsem se základy HTML a spustil svojí první personal website. Koupil jsem si svojí první doménu za 90kč na rok a stránku hostuji přes GitHub. Pro statický weby je to podle mě super řešení, jelikož repozitář na Githubu nabízí obrovský objem prostoru k dizpozici - 100Gb. celý koncept beží za pomocí <a href="https://jekyllrb.com/">Jekyllu</a>. Inspiraci jsem našel v “Much-Worse jekyll theme”. Jekyll je super při častém vytváření obsahu, který má jít na web. Princip spočívá v prvnotním nadefinování layoutu webové stránky za pomocí HTML a CSS a následně se každá další stránka (v tomto případě post) tvoří pod tímto layoutem a mě tedy poté odpadá práce s HTML a stačí tvořit pouze obsah.<br /><br /></li>
+  <li>V Pythonu jsem dokončil svůj druhý skript. Jedná se o program, který má importovat soubor ve formátu GeoJSON a následně za pomocí metody <a href="https://en.wikipedia.org/wiki/Quadtree">QuadTree</a> filrovat body a rozdělit je do jednolivých kvadrátů o stejným počtu bodů. S výsledfným skriptem jsem spokojený tak středně a hlavně protože se mi nepodařilo před odevzdáním dokončit skript, tak aby měl i grafický výstup. <br /><br /></li>
+  <li>Dokončení 3D modelu zaniklé obce Mušov viz. <a href="https://maceskad.me/blog/2019/12/16/Musov">tady.</a>. Po odevzdání jsem se dozvěděl, že na honorář za odovedenou práci si budu muset ještě nějakou dobu (pár měsíců) počkat. Nedá si nic dělat, lepší čekat na výplatu, než na složenky. <br /><br />
+ -</li>
+</ul>
+:ET
