@@ -4,7 +4,14 @@ title: Road cycling
 permalink: /Road_cycling/
 ---
 
+I am riding all kinds of fast bikes with handlebars. I have already competed several cyclo-cross, road, and track races. I am also bike messenger and I am commuting on bike anywhere in town and mostly if its possible anywhere in Czechia. 
+Feel free to follow me on Strava:
 
+<a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/21086949' target="_clean">
+  Follow me on <b>STRAVA</b>
+
+
+<h3> Heatmap of my rides </h3>
 
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
 <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
@@ -28,14 +35,15 @@ var map = L.mapbox.map('map',"mapbox.dark")
 
 var rideStyle = {
     "color": "#ff6600",
-    "weight": 3,
-    "opacity": .1,
+    "weight": 2,
+    "opacity": .2,
 }
 customLayerRide = L.geoJson(null, {
     style: rideStyle
 }).addTo(map);
     
     
+<!--
 var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/1.gpx',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
@@ -51,7 +59,8 @@ var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/prvnich25.gpx',null, customLayerRide)
+-->
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/GeoJSON_test.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
@@ -75,11 +84,6 @@ var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad
 </script>
 
 
-TED I am riding all kinds of fast bikes with handlebars. I have already competed several cyclo-cross, road, and track races. I am also bike messenger and I am commuting on bike anywhere in town and mostly if its possible anywhere in Czechia. 
-Feel free to follow me on Strava:
-
-<a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/21086949' target="_clean">
-  Follow me on <b>STRAVA</b>
 
 
 <h2>2019</h2>
