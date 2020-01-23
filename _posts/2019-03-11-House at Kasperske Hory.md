@@ -4,6 +4,8 @@ title: "House at Kasperske Hory"
 image: /images/kh_resized.jpg
 SW: "3ds Max 2019, SketchUp 2019, Lumion 9, Adobe Photoshop CS5"
 finished: "11.03.2019 (still editing)"
+lang: en
+ref: hello
 
 ---
 
