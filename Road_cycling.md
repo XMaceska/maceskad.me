@@ -43,24 +43,54 @@ customLayerRide = L.geoJson(null, {
 }).addTo(map);
     
     
-<!--
-var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/1.gpx',null, customLayerRide)
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_4.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2.gpx',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_5.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-var runLayer = omnivore.gpx('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/3.gpx',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_6.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
--->
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/GeoJSON_test.json',null, customLayerRide)
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_7.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_8.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_9.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_10.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_11.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_12.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
