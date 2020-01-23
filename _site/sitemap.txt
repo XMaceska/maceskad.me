@@ -8,6 +8,7 @@ http://localhost:4000/blog_edit/
 http://localhost:4000/cv/
 http://localhost:4000/cv_edit/
 http://localhost:4000/feed.xml
+http://localhost:4000/index_cz/
 http://localhost:4000/
 http://localhost:4000/css/main.css
 http://localhost:4000/misc/

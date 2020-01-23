@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_lang
 title:
 permalink: /
 ---
