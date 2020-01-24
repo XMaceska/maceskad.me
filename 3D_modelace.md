@@ -11,7 +11,7 @@ permalink: /3D_modelace/
 Tvořím 3D vizualizaci reálných i nereálných objektů. of real or unreal objects. On that page you can find all my projects I did or I am working on.
 
 <ul class="listing">
-{% for post in site.posts %}
+{% for post in site.posts_cz %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

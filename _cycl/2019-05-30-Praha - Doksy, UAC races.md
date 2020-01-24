@@ -5,6 +5,8 @@ image: /images/Doksy_resized.jpg
 type: "Road race"
 lenght: 73km
 category: cycl
+lang: en
+ref: doksy
 
 ---
 

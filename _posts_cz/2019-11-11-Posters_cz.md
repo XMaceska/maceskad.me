@@ -1,0 +1,28 @@
+---
+layout: post
+title: "3D exhibition "
+image: /images/poster_resized.jpg
+lang: en
+ref: hello
+photos:
+  - 07.jpg
+  - 12.jpg
+
+  
+---
+
+3D exhibition were held at our University during winter 2019. I have participated on that exhibition with 4 different posters showing my 3D models. Main purpouse of this exhibition was to show of projects, which are being made at our faculty to new potential students.
+Exhibition included 17 posters somehow related to the 3D modeling
+Full text about this exhibition is available [here](http://web.natur.cuni.cz/gis/3d/index.html) (czech language only).
+
+<h2> Posters </h2>
+<br>
+{% include image.html url="images/uvod.jpg" caption="Úvodní poster" max_width="300px" align="center" %}
+<br>
+{% include image.html url="images/07.jpg" caption="3D modelování interiétů" max_width="300px" align="center" %}
+<br>
+{% include image.html url="images/12.jpg" caption="Interaktivní 3D model" max_width="300px" align="center" %}
+<br>
+{% include image.html url="images/11.jpg" caption="Detailní fotorealistické modely" max_width="300px" align="center" %}
+
+

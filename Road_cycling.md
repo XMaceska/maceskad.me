@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Road cycling
+lang: en
+ref: road_cycling
 permalink: /Road_cycling/
 ---
 
