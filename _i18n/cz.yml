@@ -1,0 +1,11 @@
+site:
+ name: můj web
+ tagline: nastavení
+ description: ukázka
+ keywords: ukázka, web
+ 
+main:
+    welcomeSection:
+        anchor: vítej
+        heading: vítej na webu
+        p1: milion lidí

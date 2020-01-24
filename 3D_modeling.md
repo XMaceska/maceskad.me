@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 3D modeling
+ref: 3D_modeling
+lang: en
 permalink: /3D_modeling/
 ---
 

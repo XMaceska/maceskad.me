@@ -5,8 +5,8 @@
     <description>Personal website</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jan 2020 23:41:22 +0100</pubDate>
-    <lastBuildDate>Thu, 23 Jan 2020 23:41:22 +0100</lastBuildDate>
+    <pubDate>Fri, 24 Jan 2020 23:12:34 +0100</pubDate>
+    <lastBuildDate>Fri, 24 Jan 2020 23:12:34 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -226,7 +226,122 @@ Fly-through village:
     
       <item>
         <title>Campus Albertov</title>
-        <description>&lt;p&gt;This is visualization of Campus Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.&lt;/p&gt;
+        <description>&lt;p&gt;Tohle je vizualizace kampusu Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.&lt;/p&gt;
+
+&lt;p&gt;It was my enty-project into 3D modeling. The whole proces of this project was made together with teachers and other students at my university. Main benefit from this project is, that I got used to on working in group. Each building was modeled by different student and my final job was to group, edit and finish all building. Also I made surface, textures and and whole vizualization for this model. 
+&lt;br /&gt;
+You can download modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/1K18rs1Ysk3W-sxQRkngcqBCPPDChf6AC/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
+
+&lt;p&gt;Google Streetview from Campus Albertov:&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3&gt; Interactive 3D Model &lt;/h3&gt;
+&lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find place where campus is situtated.
+&lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa&quot; data-height=&quot;600&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3&gt; Renders &lt;/h3&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA1.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA1.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Purkynuv ustav
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA2.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street east
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA3.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA3.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street west
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA5.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA5.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA7.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA7.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of science in rain
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA7.2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA7.2.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street sketch
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA8.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA8.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Albertov street from street Na Slupi
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA9.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA9.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;CVUT building from back
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA10.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA10.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Faculty of chemistry
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/CA11.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/CA11.jpg&quot; height=&quot;&quot; /&gt;
+    &lt;/a&gt;Campus Albertov from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Video &lt;/h3&gt;
+&lt;p&gt;Fly-through Campus Albertov&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/K7i0gQ3LmLQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 16 Dec 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2019/12/16/Kampus-Albertov</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2019/12/16/Kampus-Albertov</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Campus Albertov</title>
+        <description>&lt;!--
+&lt;div class=&quot;wrapper&quot; style=&quot;text-align: right; line-height: 2em&quot;&gt;
+  
+   &lt;a href=&quot;/blog/2019/12/16/Kampus-Albertov&quot; class=&quot;cz&quot;&gt;cz&lt;/a&gt;  &lt;a href=&quot;/blog/2019/12/16/Campus-Albertov&quot; class=&quot;en&quot;&gt;en&lt;/a&gt; 
+&lt;/div&gt;
+--&gt;
+
+&lt;p&gt;This is visualization of Campus Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.&lt;/p&gt;
 
 &lt;p&gt;It was my enty-project into 3D modeling. The whole proces of this project was made together with teachers and other students at my university. Main benefit from this project is, that I got used to on working in group. Each building was modeled by different student and my final job was to group, edit and finish all building. Also I made surface, textures and and whole vizualization for this model. 
 &lt;br /&gt;

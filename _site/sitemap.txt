@@ -1,23 +1,962 @@
+<!DOCTYPE html>
+<html>
 
-http://localhost:4000/3D_modeling/
-http://localhost:4000/Programming/
-http://localhost:4000/Road_cycling/
-http://localhost:4000/activities_edit
-http://localhost:4000/blog/
-http://localhost:4000/blog_edit/
-http://localhost:4000/cv/
-http://localhost:4000/cv_edit/
-http://localhost:4000/feed.xml
-http://localhost:4000/index_cz/
-http://localhost:4000/
-http://localhost:4000/css/main.css
-http://localhost:4000/misc/
-http://localhost:4000/research/
-http://localhost:4000/sitemap.txt
-http://localhost:4000/css/main.css.map
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-http://localhost:4000/blog/2019/12/16/Musov
-http://localhost:4000/blog/2019/12/16/Campus-Albertov
-http://localhost:4000/blog/2019/11/11/Posters
-http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory
-http://localhost:4000/blog/2018/09/01/Jablonec
+    <title>Sitemap</title>
+    <meta name="description" content="Personal website">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/sitemap.txt">
+    <link rel="alternate" type="application/rss+xml" title="David Maceska" href="http://localhost:4000/feed.xml" />
+
+    <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+  <div class="page">
+    <header class="site-header">
+    <a class="site-title" href="/">David Maceska</a>
+    <nav class="site-nav">
+        <a href="#" class="menu-icon menu.open">
+            <svg viewBox="0 0 18 15">
+                <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+        </a>
+        <div class="trigger"><h1>Main Navigation</h1>
+            <ul class="menu">
+    
+    
+    <li><a href="" class="page-link">Projects</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/3D_modeling">3D modeling</a></li>
+    
+    <li><a href="/Programming">Programming</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+    <li><a href="" class="page-link">Activities</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/Road_cycling">Road cycling</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+     <li><a href="/cv/" class="page-link">CV</a>
+    
+    </li>
+    
+    
+     <li><a href="/blog_edit/" class="page-link">Blog</a>
+    
+    </li>
+    
+    
+     <li><a href="/test" class="page-link">test</a>
+    
+    </li>
+    
+</ul>
+
+        </div>
+    </nav>
+</header>
+
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  
+  
+
+  
+   <a href="/index_cz/" class="cz">cz</a>  <a href="/Road_cycling/" class="en">en</a>  <a href="/activities_edit" class="en">en</a>  <a href="/blog/" class="en">en</a>  <a href="/blog_edit/" class="en">en</a>  <a href="/cv/" class="en">en</a>  <a href="/cv_edit/" class="en">en</a>  <a href="/feed.xml" class="en">en</a>  <a href="/css/main.css.map" class="en">en</a>  <a href="/" class="en">en</a>  <a href="/Programming/" class="en">en</a>  <a href="/css/main.css" class="en">en</a>  <a href="/misc/" class="en">en</a>  <a href="/research/" class="en">en</a>  <a href="/sitemap.txt" class="en">en</a>  <a href="/test/" class="en">en</a>  <a href="/flux.xml" class="fr">fr</a> 
+</div>
+
+    <div class="post">
+    <header class="post-header">
+        <h1>Sitemap</h1>
+    </header>
+    <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+        <loc>/blog/2019/12/16/Musov</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/12/16/Musov" />
+        
+        <lastmod>2019-12-16T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/2019/12/16/Kampus-Albertov</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/blog/2019/12/16/Kampus-Albertov" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/12/16/Campus-Albertov" />
+        
+        <lastmod>2019-12-16T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/2019/12/16/Campus-Albertov</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/blog/2019/12/16/Kampus-Albertov" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/12/16/Campus-Albertov" />
+        
+        <lastmod>2019-12-16T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/2019/11/11/Posters</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/11/11/Posters" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/03/11/House-at-Kasperske-Hory" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2018/09/01/Jablonec" />
+        
+        <lastmod>2019-11-11T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/2019/03/11/House-at-Kasperske-Hory</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/11/11/Posters" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/03/11/House-at-Kasperske-Hory" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2018/09/01/Jablonec" />
+        
+        <lastmod>2019-03-11T00:00:00+01:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/2018/09/01/Jablonec</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/11/11/Posters" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2019/03/11/House-at-Kasperske-Hory" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/2018/09/01/Jablonec" />
+        
+        <lastmod>2018-09-01T00:00:00+02:00</lastmod>
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+  
+    
+      <url>
+        <loc>/3D_modelace/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/3D_modelace/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/3D_modeling/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/3D_modeling/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/3D_modelace/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/3D_modeling/" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/Programming/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/Road_cycling/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/activities_edit</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/blog_edit/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/cv/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/cv_edit/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/feed.xml</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/flux.xml</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/index_cz/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/css/main.css</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/misc/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/research/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/sitemap.txt</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/test/</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+    
+      <url>
+        <loc>/css/main.css.map</loc>
+        
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Programming/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/Road_cycling/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/activities_edit" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/blog_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/cv_edit/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/feed.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="fr" href="/flux.xml" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/" />
+        
+          <xhtml:link rel="alternate" hreflang="cz" href="/index_cz/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/misc/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/research/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/sitemap.txt" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/test/" />
+        
+          <xhtml:link rel="alternate" hreflang="en" href="/css/main.css.map" />
+        
+        <changefreq>weekly</changefreq>
+      </url>
+    
+  
+  </urlset>
+
+</div>
+
+
+    <footer class="site-footer">
+    Personal website<br />
+
+    <h2 class="footer-heading"></h2>
+
+    Using <a href="http://jekyllrb.com/">Jekyll</a>
+    
+     :: <a href="https://github.com/gchauras/much-worse-jekyll-theme">Website source</a>
+    
+    
+</footer>
+
+
+    
+
+    </div>
+  </body>
+
+</html>

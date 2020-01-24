@@ -5,10 +5,16 @@ image: /images/School_resized.jpg
 finished: "Not yet (aprox. spring 2020)"
 SW: "SketchUp 2019, Lumion 9"
 lang: en
-ref: hello
+ref: ref
 
 ---
 
+<!--
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+</div>
+-->
 
 This is visualization of Campus Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.
 

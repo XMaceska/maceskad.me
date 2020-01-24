@@ -121,25 +121,7 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 That was great year in cycling, I did 16 292 km, which is my personal record. Also did my longest trip in one sigle ride - 417 km.
 <h3>Races</h3>
 <ul class="listing">
-<!--Language change-->
-{% assign posts=site.cycl | where:"lang", page.lang %}
 
-<ul>
-{% assign posts=site.cycl | where:"ref", page.ref | sort: 'lang' %}
-{% for post in cycl %}
-  <li>
-    <a href="{{ cycl.url }}" class="{{ cycl.lang }}">{{ cycl.lang }}</a>
-  </li>
-{% endfor %}
-
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
-  <li>
-    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-  </li>
-{% endfor %}
-</ul>
-<!--Language change-->
 {% for post in site.cycl %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
