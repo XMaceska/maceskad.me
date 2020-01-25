@@ -10,14 +10,14 @@ ref: kasperske
 ---
 
 
-This is visualization house at Kasperske Hory town. This house is my dad's property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic object would like include and what not. 
+Jedná se o vizualizaci domu na náměstí v Kašperských horách. Vlastníkem tohoto objektu je můj táta, který v tuto chvíli provádí reknstrukci. Pro lepší představu výsledného vzhledu domu bylo potřeba vytvořit budoucí 3D model objektu. Díky této vizualizaci jsme poté byli schopni rozhodnout jaké architektonické prvky na dům umístit a jaké naopak vypustit.
 
 
-The whole outter house was made in 3ds Max by me. The interior of the house was created in SketchUp beacouse of my dad wanted to cooeparte with me on the model. We also madel pipes distribution the building. MOreover we created furtniture and rooms orientation. my dad was asked by few people if they could buy a flat in that building after it will be finished. Now we used big advantage of already created 3D model and designed the whole flat as client want. I made also video fly-throught the flat and now it feels more realisteic and its more easy to imaginw how it will be.
+Kompletní zevnějšek domu jsem tvořil v SW 3ds Max. Na tvorbě interiéru jsme s tátou spolupracovali v SW SktechUp. Vnitřek domu rovněž obsahuje veškeré rozvody, nábytek, podlahy, stěny a schodiště. Určitý počet bytů v domě je na prodej a tudíž bylo potřeba udělat vyzualizaci konkrétního bytu. Díky této vyizualizaci je možné diskutovat s budoucími nájemci rozmístění interiéru ještě dříve, než bude byt dokončen. V tomto vidím velkou výhodu CAD vizualizace. 
 
-This project was my first use of CAD in practice. 
+Tato byl můj první projekt ve, kterém jsem využil CAD v praxi.
 
-{% include image.html url="images/kh30.jpg" caption="Front of the building" max_width="300px" align="left" %}
+{% include image.html url="images/kh30.jpg" caption="Pohled na objekt z náměstí" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/kh23.jpg" caption="back of the building" max_width="300px" align="left" %}
+{% include image.html url="images/kh23.jpg" caption="Pohled na objekt ze zahrady" max_width="300px" align="left" %}
 <br>

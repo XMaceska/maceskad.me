@@ -11,41 +11,41 @@ ref: ref
 ---
 
 
-Tohle je vizualizace kampusu Albertov. This project was assigned by professors at our university as celebration of 100 years anniversary of Campus Albertov. Future plan is create model 4 periods of Campus Albertov (1850, 1910, 1950, 2019). This model is showing year 2019 and it is not finished yet.
+Jedná se o vizualizace kampusu Albertov. Celý projekt byl vymyšlen jako oslava stoletého výročí kampusu Albertov. V budoucnu je v plánu vytovřit model ve čtyřech různých obodbí (1850, 1910, 1950, 2019). Tento model zobrazuje rok 2019 a modelovací práce stále pokračují.
 
-It was my enty-project into 3D modeling. The whole proces of this project was made together with teachers and other students at my university. Main benefit from this project is, that I got used to on working in group. Each building was modeled by different student and my final job was to group, edit and finish all building. Also I made surface, textures and and whole vizualization for this model. 
+Jedná o projekt, díky kterému jsem se dostal do univerzitního týmu, spolupracující na tvorbě 3D modelů. Celý tento projekt byl tvořen společně s profesory a žáky. Největší přínos na tomto projektu vidím v tom, že jsme se naučili pracovat ve skupině na jednom projektu. Tvorba jednolivých budov byla zadána na předmětech, které si studenti zapsali. Moje práce na tomto projektu byla ve finální části spojit veškeré objekty, vytvořit silnice, chodníky, ploty, prostředí, textury, materiály a celou vizualizaci v SW Lumion. 
 <br>
-You can download modeling procedure text [here.](https://drive.google.com/file/d/1K18rs1Ysk3W-sxQRkngcqBCPPDChf6AC/view?usp=sharing) (czech language only)
+Celý text postupu práce je k dispozici [zde.](https://drive.google.com/file/d/1K18rs1Ysk3W-sxQRkngcqBCPPDChf6AC/view?usp=sharing)
 
-Google Streetview from Campus Albertov:
+Google Streetview Kampusu Albertov:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-<h3> Interactive 3D Model </h3>
-You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find place where campus is situtated.
+<h3> Interaktivní 3D Model </h3>
+V modelu je možné se pohybovat za pomocí zelených šipek. Režim celé obrazovky a režim pro virtuální realitzu je možné zapnout ikonami v pravém horních rohu. V panelu na pravé straně je možné zobrazit mapu s umístěním kampusu Albertov.
 <script async src="https://www.theasys.io/static/embed.js" data-theasys="OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa" data-height="600"></script>
 
-<h3> Renders </h3>
-{% include image.html url="images/CA1.jpg" caption="Purkynuv ustav" max_width="300px" align="center" %}
+<h3> Rendery </h3>
+{% include image.html url="images/CA1.jpg" caption="Purkyňův ustav" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA2.jpg" caption="Albertov street east" max_width="300px" align="center" %}
+{% include image.html url="images/CA2.jpg" caption="Ulice Albertov na východ" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA3.jpg" caption="Albertov street west" max_width="300px" align="center" %}
+{% include image.html url="images/CA3.jpg" caption="Ulice Albertov na západ" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA5.jpg" caption="Faculty of science" max_width="300px" align="center" %}
+{% include image.html url="images/CA5.jpg" caption="Přírodovědecká fakulta" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA7.jpg" caption="Faculty of science in rain" max_width="300px" align="center" %}
+{% include image.html url="images/CA7.jpg" caption="Přírodovědecká fakulta za deštivého počasí" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA7.2.jpg" caption="Albertov street sketch" max_width="300px" align="center" %}
+{% include image.html url="images/CA7.2.jpg" caption="Skeč ulice Albertov" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA8.jpg" caption="Albertov street from street Na Slupi" max_width="300px" align="center" %}
+{% include image.html url="images/CA8.jpg" caption="Ulice Albertov z ulice Na Slupi" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA9.jpg" caption="CVUT building from back" max_width="300px" align="center" %}
+{% include image.html url="images/CA9.jpg" caption="budova ČVUT zezadu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA10.jpg" caption="Faculty of chemistry" max_width="300px" align="center" %}
+{% include image.html url="images/CA10.jpg" caption="Budova chemie" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/CA11.jpg" caption="Campus Albertov from top" max_width="300px" align="center" %}
+{% include image.html url="images/CA11.jpg" caption="Kampus Albertov ze shora" max_width="300px" align="center" %}
 <br>
 <h3> Video </h3>
-Fly-through Campus Albertov
+Video zachycující průlet celým kampusem Albertov
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K7i0gQ3LmLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

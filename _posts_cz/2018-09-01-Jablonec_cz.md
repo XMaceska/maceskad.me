@@ -10,48 +10,45 @@ ref: jablonec
 ---
 
 
-This is visualization of abandoned village Jablonec (Ogfolderhaid)
-Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment. 
+Jedná se o vizualizaci zeniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě nachází vojenská základna s tankovou střílnou. 
 
-Earth surface was created from vector-based digital contour model Zabaged. Size of buildings was estimated from cadastral map and old photographies. 
-Modelng procedure text is available [here.](https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing) (czech language only)
+Povrch země modelu byl vytvořen z digitálního vektorového modelu vrstevnic Zabaged. Velikost budov byla odhadnuta z dobových fotografií a změřena ze starých katastrálních map. Celý proces modelace je dostupný [zde.](https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing)
 
-That was my first paid job for National Cultural heritage (NAKI)
-Additional info about this village is [here.](http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/boletice) (czech language only)
+V tomto případě se jednalo o mojí první placenou zakázku pro katedru aplikované geografie, spolupracující s ministerstvem kultury. Projekt vznikl jako program na podporu aplikovaného výzkumu a vývoje národní a kulturní identity (NAKI). Více informací o obci lze najít [zde.](http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/boletice)
 
-<h3> Renders </h3>
-{% include image.html url="images/J1.jpg" caption="Parish church" max_width="300px" align="center" %}
+<h3> Rendery </h3>
+{% include image.html url="images/J1.jpg" caption="Farní kostel" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J2.jpg" caption="School" max_width="300px" align="center" %}
+{% include image.html url="images/J2.jpg" caption="Škola" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J3.jpg" caption="Church from back" max_width="300px" align="center" %}
+{% include image.html url="images/J3.jpg" caption="Kostel ze zadu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J4.jpg" caption="Street and school" max_width="300px" align="center" %}
+{% include image.html url="images/J4.jpg" caption="Ulice a Škole" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J5.jpg" caption="Village-green" max_width="300px" align="center" %}
+{% include image.html url="images/J5.jpg" caption="Náves" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J9.jpg" caption="Village-green from top" max_width="300px" align="center" %}
+{% include image.html url="images/J9.jpg" caption="Náves ze shora" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J7.jpg" caption="Church from top" max_width="300px" align="center" %}
+{% include image.html url="images/J7.jpg" caption="Kostel z vrchu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J8.jpg" caption="Church from back" max_width="300px" align="center" %}
+{% include image.html url="images/J8.jpg" caption="Kostel ze zadu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J10.jpg" caption="Jablonec and Kmet hill" max_width="300px" align="center" %}
+{% include image.html url="images/J10.jpg" caption="Jablonec a kopec Kmet" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J11.jpg" caption="Jablonec from north" max_width="300px" align="center" %}
+{% include image.html url="images/J11.jpg" caption="Severní pohled na Jablonec" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J12.jpg" caption="Church in evening" max_width="300px" align="center" %}
+{% include image.html url="images/J12.jpg" caption="Kostel ve večeních hodinách" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J13.jpg" caption="Village-green in rainy weather" max_width="300px" align="center" %}
+{% include image.html url="images/J13.jpg" caption="Náves v deštivém počasí" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J14.jpg" caption="Village-green from west" max_width="300px" align="center" %}
+{% include image.html url="images/J14.jpg" caption="Západní pohled na náves" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J15.jpg" caption="Jablonec in winter" max_width="300px" align="center" %}
+{% include image.html url="images/J15.jpg" caption="Jablonec v zimních měsících" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J17.jpg" caption="Jablonec from top" max_width="300px" align="center" %}
+{% include image.html url="images/J17.jpg" caption="Jablonec ze shora" max_width="300px" align="center" %}
 <br><br>
-<h3> Compare 3D model with old photographs </h3>
-When you left-click on image it will swap old photo with render
+<h3> Porovnání dobových fotek s 3D modelem </h3>
+Kliknutím se změní fotografie na dobovou fotografii
 <p>
     <img alt="Street"  src="images/J2.jpg" id = "imgClickAndChange" />
 <script>     
@@ -96,6 +93,6 @@ imgTag.addEventListener("click", function (event) {
 </script> 
 
 <h3> Video </h3>
-<h5>Fly-through the village Jablonec</h5>
+<h5>Video zachycují průlet celou vesnicí Jablonec</h5>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yBfG8Soaxw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D modeling
+title: 3D modelace
 ref: 3D_modeling
 lang: cz
 permalink: /3D_modelace/
@@ -8,7 +8,7 @@ permalink: /3D_modelace/
 
 
 
-Tvořím 3D vizualizaci reálných i nereálných objektů. of real or unreal objects. On that page you can find all my projects I did or I am working on.
+Zabývám se tvorbou 3D modelů, ať už reálných ale i ne objektů. Tady na tomhle místě se nachází mé portfolio s projekty, které jsem tvořil sám a nebo v týmu. Seřazeno podle data dokončení.
 
 
 <ul class="listing">
