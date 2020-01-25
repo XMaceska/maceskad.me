@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cz
 title: "Zaniklá obec Jablonec"
 image: /images/jablonec_resized.jpg
 SW: 3ds Max 2018, Lumion 8

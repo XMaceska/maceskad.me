@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cz
 title: "Praha - Doksy UAC silniční závod"
 image: /images/Doksy_resized.jpg
 type: "Road race"

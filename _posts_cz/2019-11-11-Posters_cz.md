@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cz
 title: "3D výstava "
 image: /images/poster_resized.jpg
 lang: cz

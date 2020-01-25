@@ -26,3 +26,4 @@ http://localhost:4000/blog/2019/12/16/Campus-Albertov
 http://localhost:4000/blog/2019/11/11/Posters
 http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory
 http://localhost:4000/blog/2018/09/01/Jablonec
+http://localhost:4000/blog/2018/03/15/Interior-of-Faculty-of-science

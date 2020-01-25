@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cz
 title: "Dům v Kašperských horách"
 image: /images/kh_resized.jpg
 SW: "3ds Max 2019, SketchUp 2019, Lumion 9, Adobe Photoshop CS5"

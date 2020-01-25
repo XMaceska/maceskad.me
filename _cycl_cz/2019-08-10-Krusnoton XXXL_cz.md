@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_cz
 title: "Krušnoton XXXL"
 image: /images/Krusnoton_resized.jpg
 type: "Road race"
