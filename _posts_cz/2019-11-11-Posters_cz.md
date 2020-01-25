@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "3D exhibition "
+title: "3D výstava "
 image: /images/poster_resized.jpg
-lang: en
-ref: hello
+lang: cz
+ref: poster
 photos:
   - 07.jpg
   - 12.jpg

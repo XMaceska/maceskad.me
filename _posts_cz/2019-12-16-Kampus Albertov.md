@@ -6,7 +6,6 @@ finished: "Not yet (aprox. spring 2020)"
 SW: "SketchUp 2019, Lumion 9"
 lang: cz
 ref: ref
-id: 1
 
 
 ---

@@ -44,6 +44,8 @@ collections:
     output: true
   cycl:
     output: true
+  cycl_cz:
+    output: true
   blo:
     output: true
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Road cycling
+title: Silniční cyklistika
 lang: cz
 ref: road_cycling
 permalink: /Road_cycling_cz/
@@ -124,7 +124,7 @@ That was great year in cycling, I did 16 292 km, which is my personal record. Al
 <h3>Races</h3>
 <ul class="listing">
 
-{% for post in site.cycl %}
+{% for post in site.cycl_cz reversed %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

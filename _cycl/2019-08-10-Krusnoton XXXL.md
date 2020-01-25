@@ -5,6 +5,8 @@ image: /images/Krusnoton_resized.jpg
 type: "Road race"
 lenght: 300km
 category: cycl
+ref: krusnoton
+lang: en
 
 ---
 <h3>Registration </h3>

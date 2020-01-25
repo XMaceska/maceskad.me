@@ -124,7 +124,7 @@ That was great year in cycling, I did 16 292 km, which is my personal record. Al
 <h3>Races</h3>
 <ul class="listing">
 
-{% for post in site.cycl %}
+{% for post in site.cycl reversed %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

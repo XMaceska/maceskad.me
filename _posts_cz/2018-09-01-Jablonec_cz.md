@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Abandoned village Jablonec"
+title: "Zaniklá obec Jablonec"
 image: /images/jablonec_resized.jpg
 SW: 3ds Max 2018, Lumion 8
 finished: 11.9.2018
-lang: en
-ref: hello
+lang: cz
+ref: jablonec
 
 ---
 
@@ -96,5 +96,6 @@ imgTag.addEventListener("click", function (event) {
 </script> 
 
 <h3> Video </h3>
-Fly-through the village Jablonec
+<h5>Fly-through the village Jablonec</h5>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yBfG8Soaxw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

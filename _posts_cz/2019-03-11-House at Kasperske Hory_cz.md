@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "House at Kasperske Hory"
+title: "Dům v Kašperských horách"
 image: /images/kh_resized.jpg
 SW: "3ds Max 2019, SketchUp 2019, Lumion 9, Adobe Photoshop CS5"
 finished: "11.03.2019 (still editing)"
-lang: en
-ref: hello
+lang: cz
+ref: kasperske
 
 ---
 
@@ -17,7 +17,7 @@ The whole outter house was made in 3ds Max by me. The interior of the house was 
 
 This project was my first use of CAD in practice. 
 
-{% include image.html url="kh30.jpg" caption="Front of the building" max_width="300px" align="left" %}
+{% include image.html url="images/kh30.jpg" caption="Front of the building" max_width="300px" align="left" %}
 <br>
-{% include image.html url="kh23.jpg" caption="back of the building" max_width="300px" align="left" %}
+{% include image.html url="images/kh23.jpg" caption="back of the building" max_width="300px" align="left" %}
 <br>
