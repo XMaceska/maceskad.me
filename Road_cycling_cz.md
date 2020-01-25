@@ -8,13 +8,13 @@ permalink: /Road_cycling_cz/
 
 Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosvých, silnicních i dráhových závodů. KOlo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i inějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těmř vždy a všude a občas, pokud je to alespoň trochu možné, dojíždím i kamkoliv po Čechách na kole. 
 
-Nebojte se mě následovat na Stravě:
+Na Stravě mám vše:
 
 <a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/21086949' target="_clean">
   Follow me on <b>STRAVA</b>
 
 
-<h3> Heatmap of my rides </h3>
+<h3> Heatmapa mých jízd </h3>
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
@@ -121,7 +121,7 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 
 
 <h2>2019</h2>
-That was great year in cycling, I did 16 292 km, which is my personal record. Also did my longest trip in one sigle ride - 417 km.
+Rok 2019 byl super, zbořil jsem minimálně dva rekordy. Najel jsem celkově 16 292 km za rok a taky jsem odjel z Prahy do Berlína za 19 a půl hodiny, čimž jsem si posunul svojí nejdelší jízdu za jediný den na hodnotu 417km.
 <h3>Races</h3>
 <ul class="listing">
 
