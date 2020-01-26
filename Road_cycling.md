@@ -157,6 +157,9 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
     .addTo(map);
     
 var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_11_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
     .addTo(map);
 
 var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_12_resized.json',null, customLayerRide)
