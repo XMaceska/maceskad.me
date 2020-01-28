@@ -6,7 +6,7 @@ ref: road_cycling
 permalink: /Road_cycling_cz/
 ---
 
-Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i inějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách. 
+Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i nějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách. 
 
 Na Stravě mám vše:
 

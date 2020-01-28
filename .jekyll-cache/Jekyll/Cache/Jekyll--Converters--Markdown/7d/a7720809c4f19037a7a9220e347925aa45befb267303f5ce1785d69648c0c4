@@ -1,4 +1,4 @@
-I"E	<p>Zabývám se tvorbou 3D modelů, ať už reálných ale i ne objektů. Tady na tomhle místě se nachází mé portfolio s projekty, které jsem tvořil sám a nebo v týmu. Seřazeno podle data dokončení.</p>
+I"_<p>Zabývám se tvorbou 3D modelů, ať už reálných ale i ne objektů. Tady na tomhle místě se nachází mé portfolio s projekty, které jsem tvořil sám a nebo v týmu. Seřazeno podle data dokončení.</p>
 
 <ul class="listing">
 
@@ -53,6 +53,15 @@
     <a href="/posts_cz/2018-09-01-Jablonec_cz" title="Zaniklá obec Jablonec">Zaniklá obec Jablonec</a>
   </li>
 
+  
+  
+    <a href="/posts_cz/2018-03-15-Interier%20prirodovecke%20fakulty">
+    <img src="/images/Interior_resized.png" alt="Interiér přírodovědecké fakulty UK" title="Interiér přírodovědecké fakulty UK" /> <a href="/posts_cz/2018-03-15-Interier%20prirodovecke%20fakulty">
+  <li class="listing-item">
+    <time datetime="post.date">2018-03-15</time>
+    <a href="/posts_cz/2018-03-15-Interier%20prirodovecke%20fakulty" title="Interiér přírodovědecké fakulty UK">Interiér přírodovědecké fakulty UK</a>
+  </li>
 
-</a></a></a></a></a></a></a></a></a></a></ul>
+
+</a></a></a></a></a></a></a></a></a></a></a></a></ul>
 :ET
