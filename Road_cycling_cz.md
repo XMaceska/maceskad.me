@@ -6,7 +6,7 @@ ref: road_cycling
 permalink: /Road_cycling_cz/
 ---
 
-Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosvých, silnicních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i inějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těmř vždy a všude a občas, pokud je to alespoň trochu možné, dojíždím i kamkoliv po Čechách na kole. 
+Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i inějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách. 
 
 Na Stravě mám vše:
 
@@ -16,15 +16,14 @@ Na Stravě mám vše:
 
 <h3> Heatmapa mých jízd </h3>
 
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
 <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
 
     
 <style>
-    #map {
-   	width: 1200px;
-  	 height: 600px; }
+   body { margin: 0; padding: 0; }
+	#map { position: absolute ; top: 50; bottom: 50; height: 50%; width: 50%; }
 </style>
 
 
@@ -36,6 +35,8 @@ Na Stravě mám vše:
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoibWFjZXNrYSIsImEiOiJjazVhMDFmbGgxMmxnM21wZ3BvNjJhdXMzIn0.OC2jBDlbR4AE1rhBzI__cQ';
 var map = L.mapbox.map('map',"mapbox.dark")
+
+
 
 var rideStyle = {
     "color": "#ff6600",
@@ -253,7 +254,7 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 //    .addTo(map);
 //var runLayer = omnivore.gpx("3.gpx",null,customLayerRide)
 //    .addTo(map);
-        
+
 </script>
 
 

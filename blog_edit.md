@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /blog_edit/
+lang: cz
+ref: blog
+permalink: /blog/
 ---
 <ul class="listing">
 {% for post in site.blo %}
