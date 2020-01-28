@@ -1,12 +1,12 @@
 ---
 layout: page
-title:
+title: About
 lang: en
 ref: index
 permalink: /
 ---
 
-{% include image.html url="images/ja.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/ja.png" caption="me" max_width="300px" align="right" %}
 
 Main purpouse is briefly sum up my life and present my activities to anybody, who's interested. <br>
 
