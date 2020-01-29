@@ -1,12 +1,12 @@
 ---
 layout: page
-title:
+title: O tomoto webu
 lang: cz
 ref: index
 permalink: index_cz/
 ---
 
-{% include image.html url="images/ja.png" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/ja.png" caption="ja" max_width="300px" align="right" %}
 
 Hlavním cílem této webové stránky je stručné shrnutí mých aktivit, kterým se věnuji a prezentovat je komkuliv, koho to případně může zajímat. <br>
 
