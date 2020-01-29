@@ -38,7 +38,7 @@ Závěrečný render byl spuštěn v SW lumion, zejména z důvodu velmi realist
 <br>
 {% include image.html url="images/10I.png" caption="Vstupní hala" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/11I.jpg" caption="Půdorys budovy" max_width="300px" align="center" %}
+{% include image.html url="images/11I.JPG" caption="Půdorys budovy" max_width="300px" align="center" %}
 <br>
 
 <h3> Video </h3>

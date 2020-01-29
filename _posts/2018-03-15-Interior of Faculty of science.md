@@ -38,7 +38,7 @@ Final render was set up in SW Lumion, due to its great realistic output, student
 <br>
 {% include image.html url="images/10I.png" caption="Entrance hall" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/11I.jpg" caption="Floor plan" max_width="300px" align="center" %}
+{% include image.html url="images/11I.JPG" caption="Floor plan" max_width="300px" align="center" %}
 <br>
 
 <h3> Video </h3>
