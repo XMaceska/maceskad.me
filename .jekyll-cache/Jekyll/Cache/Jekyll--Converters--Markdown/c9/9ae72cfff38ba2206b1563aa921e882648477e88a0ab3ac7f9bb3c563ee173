@@ -1,0 +1,81 @@
+I"�<h3>Prosinec 2019</h3>
+<p>Prosincem roku 2019 začínám pravidelný měsíčník blogu.</p>
+<ul>
+  <li>Naučil jsem se základy HTML a spustil svojí první personal website. Koupil jsem si svojí první doménu za 90kč na rok a stránku hostuji přes GitHub. Pro statický weby je to podle mě super řešení, jelikož repozitář na Githubu nabízí obrovský objem prostoru k dizpozici - 100Gb. celý koncept beží za pomocí <a href="https://jekyllrb.com/">Jekyllu</a>. Inspiraci jsem našel v “Much-Worse jekyll theme”. Jekyll je super při častém vytváření obsahu, který má jít na web. Princip spočívá v prvnotním nadefinování layoutu webové stránky za pomocí HTML a CSS a následně se každá další stránka (v tomto případě post) tvoří pod tímto layoutem a mě tedy poté odpadá práce s HTML a stačí tvořit pouze obsah. Nakonec se za pomocí příkazové řádky všechny soubory commitnou a pushnout na repozitář Githubu.<br /><br /></li>
+  <li>V Pythonu jsem dokončil svůj druhý skript. Jedná se o program, který má importovat soubor ve formátu GeoJSON a následně za pomocí metody <a href="https://en.wikipedia.org/wiki/Quadtree">QuadTree</a> filrovat body a rozdělit je do jednolivých kvadrátů o stejným počtu bodů. S výsledným skriptem jsem spokojený tak středně a hlavně protože se mi nepodařilo před odevzdáním dokončit skript, tak aby měl i grafický výstup. <br /><br /></li>
+  <li>Dokončení 3D modelu zaniklé obce Mušov viz. <a href="https://maceskad.me/blog/2019/12/16/Musov">tady.</a> Po odevzdání jsem se dozvěděl, že na honorář za odovedenou práci si budu muset ještě nějakou dobu (pár měsíců) počkat. Nedá si nic dělat, lepší čekat na výplatu, než na složenky. <br /><br /></li>
+  <li>Doba před vánocema je vždycky rito v pro kurýry, kteří doručují vánoční dárky, balíky a jinou poštu. Mám to štěstí, že nějakou dobu už pracuji jako Messenger a tak jsem si docela poctivě s poctivě těžkým batohem zajezdil po Praze a vydělal částku se která se mi líbila. Byla to ale poměrně dřina. Většina dárků totiž tvoří lahve s alkoholem a do našeho žlutýho batohu se jich vejde víc, než dost a to si pak připadám jak v Nepálu. Škoda, že jsem v jednom dni ztratil klíč od zámku na kolo. Naštěstí jsem to připnul k dřevěný ohrádce, kterou jsme vypáčili a řezání pilkou nastalo až doma.<br /><br /></li>
+  <li>Hned po skončení vánočního nadšení po dárky se na <a href="www.strava.com">STRAVĚ</a> jezdí challenge s názvem Rapha Festive500 s cílem najezdit v období od 24.12 do 31.12 500km. Je to super challenge a požadovanou porci jsem měl splněnou už 30.12. S tím, že cesty byly dost různorodý viz. <a href="https://www.strava.com/athletes/21086949#interval?interval=201952&amp;interval_type=week&amp;chart_type=miles&amp;year_offset=0">tady.</a> Na konci února si v Berlíně za to vyzvednu nášivku a dostanu kafáro zdarma. Zážitky z každodeních prosincových 100 kilometrových jízd jsem určite ocenil.<br /><br /></li>
+  <li>V Praze se každoročně konná zimní a letní slunovrat Ride. Organizátorem je Bajkazyl a vždy se sejde plno lidí na kole s cílem projet potemnělou Prahu s cílem vidět východ slunce na pěkným místě. Letos byl sraz v 5:50 před Rudolfinem a my vzdali kolo už v půlnoci s tím, že do rána počkáme v Music Clubu Vagon. Vyšlo to a jízda proběhla, Praha je moc krásná takhle brzo ráno a bez lidí.<br /><br /></li>
+  <li>K vánocům jsem dostal kompletní běžkařský set, tak doufám, že se objeví trochu bílýho sněhu a já zkusim taky změnit sport. Dostal jsem taky moc pěknou litinovou konec na zelený čaj, který si občas s radostí dám a v litinový konvi chutná nejlíp. <br /><br /></li>
+  <li>S kamarádem jsem se přihlásil na závod z kterého jsem měl už rok velký respekt. Jedná se o <a href="https://www.rad-race.com/booking-lms-2020">RAD Race</a> Last man Standing v Berlíně. Zavod se jede na dráhových kolech na motokárové dráze. Bude to učitě dost na lokty a s atmosférou nad Olympijské ceremonie. Jsem rád, že jsem přihlášku odklik a nakonec se těším dost. Video z minulého ročníku <a href="https://www.youtube.com/watch?v=QyvbqzIS_ak">zde</a>.<br /><br /></li>
+  <li>Společně s mojí Adélou jsem viděl výstavu medúz v Praze na Pankráci. Víc, než 10 tisíc medúz tam asi je, ale jsou poměrně malý a celý prostor je poměrně malý. Ale odcházel jsem s pocitem “v pohodě”. Vidět 10 tisíc medúz za den je ok podle mě.<br /><br /></li>
+  <li>Někdy na konci srpna jsem si nechával předělávat okna v bytě. Jelikož se objednávka tak úplně nepovedla podle představ, tak zedníci nedodělali ani parapety ani vnjěší šambrány oken. Nezbývalo teda nic jinýho, než se naučit nový věci a v obi nakoupit APU lišty, keraštuk, lepidlo a parapety a v prosincovém počasí dodělat to, čemu se ostatní vyhnuli. Nakonec se to povedlo a já mám radost, že jsem si vyzkoušel zednikoou práci.<br /><br /></li>
+  <li>Poslední den v roce jsme oslavili s pěknou whisky. 3 dny potom mi bylo ještě nic moc. Nic moc start do novýho roku, ted už je to ale ok.<br /><br /></li>
+</ul>
+
+<p>V prosinci se toho určitě dělo mnohem víc, ale myslim, že počet řádku už je dostačující a tak bych prosinec zakončil
+<br /><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 08-12-2019, 11 41 50.jpg">
+    
+    <img src="images/Photo 08-12-2019, 11 41 50.jpg" />
+    </a>Věci na úpravu oken
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 11-12-2019, 19 41 47.jpg">
+    
+    <img src="images/Photo 11-12-2019, 19 41 47.jpg" />
+    </a>Mnou přeřezaný zámek
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 14-12-2019, 18 15 46.jpg">
+    
+    <img src="images/Photo 14-12-2019, 18 15 46.jpg" />
+    </a>Výstava medůz
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 25-12-2019, 11 07 17.jpg">
+    
+    <img src="images/Photo 25-12-2019, 11 07 17.jpg" />
+    </a>Já při Rapha Festive500
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 27-12-2019, 12 20 26.jpg">
+    
+    <img src="images/Photo 27-12-2019, 12 20 26.jpg" />
+    </a>Já při Rapha Festive500 v -5°C
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 28-12-2019, 11 37 08.jpg">
+    
+    <img src="images/Photo 28-12-2019, 11 37 08.jpg" />
+    </a>Já při Rapha Festive500 v Poděbradech°C
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 26-12-2019, 19 20 42.jpg">
+    
+    <img src="images/Photo 26-12-2019, 19 20 42.jpg" />
+    </a>Nová litinová konev
+</div>
+
+<p><br /></p>
+<div class="captioned-img alignleft">
+    <a href="images/Photo 24-12-2019, 21 31 56 (1).jpg">
+    
+    <img src="images/Photo 24-12-2019, 21 31 56 (1).jpg" />
+    </a>Nový běžkařský set
+</div>
+:ET
