@@ -49,7 +49,7 @@ V tomto případě se jednalo o mojí první placenou zakázku pro katedru aplik
 <br><br>
 <h3> Porovnání dobových fotek s 3D modelem </h3>
 Kliknutím se změní fotografie na dobovou fotografii
-<p>
+<br>
     <img alt="Street"  src="images/J2.jpg" id = "imgClickAndChange" />
 <script>     
 var images = ["images/J2.jpg", "images/J2O.jpg"]
@@ -63,7 +63,7 @@ imgTag.addEventListener("click", function (event) {
   event.target.src = images[imgState];
 });
 </script> 
-<p>
+<br>
     <img alt="Townhall" src="images/J9.jpg"  id="imgClickAndChange2"   />
 <script>     
 var images2 = ["images/J9.jpg", "images/J9O.jpg"]
@@ -77,7 +77,7 @@ imgTag.addEventListener("click", function (event) {
   event.target.src = images2[imgState];
 });
 </script> 
-<p>
+<br>
     <img alt="Square2" src="images/J8.jpg"  id="imgClickAndChange3"   />
 <script>     
 var images3 = ["images/J8.jpg", "images/J8O.jpg"]
