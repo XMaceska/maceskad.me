@@ -1,0 +1,102 @@
+I"�<p>Toto byl můj první opravdový prjekt ve 3D prostředí. Celé dílo vzniklo jako příla k mé bakalářské práci, ve které jsem věnoval porovnání dvou CAD softwarů - Blender a 3ds Max. Hlavním cílem bylo vytvořit kritéria pro porovnání SW umožnující práci ve třech rozměrech. Na tomto modelu jsem testoval chování dvou zmíněných SW a výsledky testoval a argumentoval o jejich důvodech. Celá bakalářská práce nakonec byla hodnocena jako “výborně” a já byl nakonec dost spokojený. Text je dostupný <a href="https://is.cuni.cz/webapps/zzp/detail/198733/43429949/?q=%7B%22______searchform___search%22%3A%22mace%5Cu0161ka%22%2C%22______searchform___butsearch%22%3A%22Vyhledat%22%2C%22______facetform___facets___workType%22%3A%5B%22BP%22%5D%2C%22______facetform___facets___faculty%22%3A%5B%2211310%22%5D%2C%22______facetform___facets___defenseYear%22%3A%5B%222018%22%5D%2C%22PNzzpSearchListbasic%22%3A1%7D&amp;lang=cs">zde.</a><br /></p>
+
+<p>Každopádně mé poděkování patří mému vedoucímu práce p. Miroslavu Čábelkovi, díky kterému celé toto dílo mohlo vůbec vzniknout.<br /></p>
+
+<p>Rozměry budovy jsem záskal od IT podpory modelované budovy. Půdorys budovy mi byl poskytnut ve formátu DXF a obsahoval veškeré důležité vrstvy jako např. okna, zdi, dveře, elektrické spotřebiče, apod. Jediný problé jsem řešil s výškou stropů. Výšku jsem musel změřit laserovým dálkovým měřičem Leica. PO zapsání těchto rozměrů jsem se mohl pustit do modelace. Celý model byl tvořen v SW 3ds Max, ale zároven také v SW Blender. Zabralo to nějaký čas, ale díky tomuto postupu jsem se mohl více “ponořit” do obou SW a otestovat jejich funkčnost. <br /></p>
+
+<p>Závěrečný render byl spuštěn v SW lumion, zejména z důvodu velmi realistických výstupu, uživatesky přívětivýmu prostředí</p>
+
+<div class="captioned-img aligncenter">
+    <a href="images/1I.png" alt="lost">
+    
+    <img src="images/1I.png" />
+    </a>Schodiště u vstupu dobudovy
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/2I.png" alt="lost">
+    
+    <img src="images/2I.png" />
+    </a>Vstupní hala
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/3I.png" alt="lost">
+    
+    <img src="images/3I.png" />
+    </a>Chodba a ukázka topení společně se světly
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/4I.png" alt="lost">
+    
+    <img src="images/4I.png" />
+    </a>Skříně a batohy
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/5I.png" alt="lost">
+    
+    <img src="images/5I.png" />
+    </a>Chodba se studentem a profesorem
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/6I.png" alt="lost">
+    
+    <img src="images/6I.png" />
+    </a>Student právě procházející dveřmi
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/7I.png" alt="lost">
+    
+    <img src="images/7I.png" />
+    </a>Studentka nahlížející do vitrín
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/8I.png" alt="lost">
+    
+    <img src="images/8I.png" />
+    </a>Vstupní hala
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/9I.png" alt="lost">
+    
+    <img src="images/9I.png" />
+    </a>Vstupní hala
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/10I.png" alt="lost">
+    
+    <img src="images/10I.png" />
+    </a>Vstupní hala
+</div>
+
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/11I.jpg" alt="lost">
+    
+    <img src="images/11I.jpg" />
+    </a>Půdorys budovy
+</div>
+
+<p><br /></p>
+
+<h3> Video </h3>
+<p>Video zachycující průlet prvním patrem budovy:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-2PAjpgR1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET

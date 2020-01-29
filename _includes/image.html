@@ -1,9 +1,9 @@
 <div class="captioned-img align{{include.align}}">
-    <a href="{{ include.url }}">
+    <a href="{{ include.url }}"  alt="{{include.caption}}">
     {% if include.width %}
-    <img src="{{ include.url }}" width="{{ include.width }}" />
+    <img src="{{ include.url }}" width="{{ include.width }}"  />
     {% else if include.height %}
-    <img src="{{ include.url }}" height="{{ include.height }}" />
+    <img src="{{ include.url }}" />
     {% else %}
     <img src="{{ include.url }}" />
     {% endif %}</a>{% if include.caption %}{{ include.caption }}{% endif %}
