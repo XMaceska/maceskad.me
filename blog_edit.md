@@ -5,8 +5,10 @@ lang: cz
 ref: blog
 permalink: /blog/
 ---
+Na tomto místě se nachází měsíčník obsahující souhrn určitých informací a situací, které se odehrály v konkrétním měsíci.
+Blog je psán spíše odlehčeným stylem, než neodlehčeným. 
 <ul class="listing">
-{% for post in site.blo %}
+{% for post in site.blo reversed %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
