@@ -17,7 +17,17 @@ Kompletní zevnějšek domu jsem tvořil v SW 3ds Max. Na tvorbě interiéru jsm
 
 Tato byl můj první projekt ve, kterém jsem využil CAD v praxi.
 
-{% include image.html url="images/kh30.jpg" caption="Pohled na objekt z náměstí" max_width="300px" align="left" %}
+{% include image.html url="kh30.jpg" caption="Pohled na budovu z náměstí" max_width="300px" align="left" %}
 <br>
-{% include image.html url="images/kh23.jpg" caption="Pohled na objekt ze zahrady" max_width="300px" align="left" %}
+{% include image.html url="kh27.jpg" caption="Pohled na budovu z náměstí" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh23.jpg" caption="Pohled na budovu ze zahrady" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh21 (2).jpg" caption="Pohled na budovu ze zahrady" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh ukazka CAD.jpg" caption="budova v CADu" max_width="300px" align="left" %}
+<br>
+{% include image.html url="Sketchup.jpg" caption="iinteriér budovy zobrazen pomocí rentgenového vidění ve SketchUpu" max_width="300px" align="left" %}
+<br>
+{% include image.html url="Sketchup2.jpg" caption="Detaily interiéru budpvy ve SketchUpu" max_width="300px" align="left" %}
 <br>

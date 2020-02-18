@@ -19,5 +19,15 @@ This project was my first use of CAD in practice.
 
 {% include image.html url="kh30.jpg" caption="Front of the building" max_width="300px" align="left" %}
 <br>
-{% include image.html url="kh23.jpg" caption="back of the building" max_width="300px" align="left" %}
+{% include image.html url="kh27.jpg" caption="Front of the building" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh23.jpg" caption="Back of the building" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh21 (2).jpg" caption="Back of the building" max_width="300px" align="left" %}
+<br>
+{% include image.html url="kh ukazka CAD.jpg" caption="building in CAD" max_width="300px" align="left" %}
+<br>
+{% include image.html url="Sketchup.jpg" caption="interior of building in xray vision of SketchUp" max_width="300px" align="left" %}
+<br>
+{% include image.html url="Sketchup2.jpg" caption="details of interior in SketchUp" max_width="300px" align="left" %}
 <br>
