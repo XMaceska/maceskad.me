@@ -25,9 +25,9 @@ Tato byl můj první projekt ve, kterém jsem využil CAD v praxi.
 <br>
 {% include image.html url="kh21 (2).jpg" caption="Pohled na budovu ze zahrady" max_width="300px" align="left" %}
 <br>
-{% include image.html url="kh ukazka CAD.jpg" caption="budova v CADu" max_width="300px" align="left" %}
+{% include image.html url="kh ukazka CAD.JPG" caption="budova v CADu" max_width="300px" align="left" %}
 <br>
-{% include image.html url="Sketchup.jpg" caption="iinteriér budovy zobrazen pomocí rentgenového vidění ve SketchUpu" max_width="300px" align="left" %}
+{% include image.html url="Sketchup.JPG" caption="iinteriér budovy zobrazen pomocí rentgenového vidění ve SketchUpu" max_width="300px" align="left" %}
 <br>
-{% include image.html url="Sketchup2.jpg" caption="Detaily interiéru budpvy ve SketchUpu" max_width="300px" align="left" %}
+{% include image.html url="Sketchup2.JPG" caption="Detaily interiéru budpvy ve SketchUpu" max_width="300px" align="left" %}
 <br>
