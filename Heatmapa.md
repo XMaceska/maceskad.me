@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Heatmap
-lang: cz
-ref: 
-permalink: /Road_cycling_cz/heatmap
+lang: en
+ref: heatmap
+permalink: /Road_cycling/heatmap
 ---
 
 
