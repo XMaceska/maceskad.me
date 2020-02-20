@@ -49,58 +49,57 @@ customLayerRide = L.geoJson(null, {
     
     
 
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_4.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_4_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_5.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_5_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_6.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_6_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
 
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_7.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_7_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
     
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_8.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_8_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
 
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_9.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_9_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
 
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_10.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_10_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
     
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_11.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_11_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
 
-var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_12.json',null, customLayerRide)
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_12_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
     })
     .addTo(map);
-
 var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_1_resized.json',null, customLayerRide)
     .on('ready', function() {
         map.fitBounds(runLayer.getBounds());
@@ -257,8 +256,19 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 
 </script>
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2>2019</h2>
 Rok 2019 byl super, zbořil jsem minimálně dva rekordy. Najel jsem celkově 16 292 km za rok a taky jsem odjel z Prahy do Berlína za 19 a půl hodiny, čimž jsem si posunul svojí nejdelší jízdu za jediný den na hodnotu 417km.
