@@ -1,13 +1,97 @@
-I"�-<p>Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i nějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách.</p>
+<!DOCTYPE html>
+<html lang="cz">
 
-<p>Na Stravě mám vše:</p>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<p><a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href="http://strava.com/athletes/21086949" target="_clean">
-  Follow me on <b>STRAVA</b></a></p>
+    <title>Heatmap</title>
+    <meta name="description" content="Personal website">
 
-<h3> Heatmapa mých jízd </h3>
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/Road_cycling_cz/heatmap">
+    <link rel="alternate" type="application/rss+xml" title="David Maceska" href="http://localhost:4000/feed.xml" />
 
-<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+  <div class="page">
+    <header class="site-header">
+    <a class="site-title" href="/">David Maceska</a>
+    <nav class="site-nav">
+        <a href="#" class="menu-icon menu.open">
+            <svg viewBox="0 0 18 15">
+                <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+        </a>
+        <div class="trigger">
+            <ul class="menu">
+    
+    
+    <li><a href="" class="page-link">Projects</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/3D_modeling">3D modeling</a></li>
+    
+    <li><a href="/Programming">Programming</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+    <li><a href="" class="page-link">Activities</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/Road_cycling">Road cycling</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+     <li><a href="/cv" class="page-link">CV</a>
+    
+    </li>
+    
+    
+     <li><a href="/blog/" class="page-link">Blog</a>
+    
+    </li>
+    
+</ul>
+
+        </div>
+    </nav>
+</header>
+
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  
+  
+
+  
+  
+
+  
+  
+    
+  
+  
+
+  
+   <a href="/css/main.css" class=""></a>  <a href="/activities_edit" class=""></a>  <a href="/blog/" class=""></a>  <a href="/cv_edit/" class=""></a>  <a href="/index_cz/" class=""></a>  <a href="/feed.xml" class=""></a>  <a href="/misc/" class=""></a>  <a href="/research/" class=""></a>  <a href="/sitemap.txt" class=""></a>  <a href="/test/" class=""></a>  <a href="/Road_cycling_cz/heatmap" class="cz">cz</a> 
+</div>
+
+    <div class="post">
+    <header class="post-header">
+        <h1>Heatmap</h1>
+    </header>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
 <script src="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js"></script>
 
@@ -15,7 +99,7 @@
 
 <style>
    body { margin: 0; padding: 0; }
-	#map { position: absolute ; top: 50; bottom: 50; height: 50%; width: 50%; }
+	#map { position: absolute  ; top: 50; bottom: 50; height: 65%; width: 70%; }
 </style>
 
 <!--// map -->
@@ -247,33 +331,25 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 
 </script>
 
-<h2>2019</h2>
-<p>Rok 2019 byl super, zbořil jsem minimálně dva rekordy. Najel jsem celkově 16 292 km za rok a taky jsem odjel z Prahy do Berlína za 19 a půl hodiny, čimž jsem si posunul svojí nejdelší jízdu za jediný den na hodnotu 417km.</p>
-<h3>Races</h3>
-<ul class="listing">
+
+</div>
 
 
-  
-  
+    <footer class="site-footer">
+    Personal website<br />
+
+
+    Using <a href="http://jekyllrb.com/">Jekyll</a>
     
-    <li class="listing-seperator">2019</li>
-  
-    <a href="/cycl_cz/2019-08-10-Krusnoton%20XXXL_cz">
-    <img src="/images/Krusnoton_resized.jpg" alt="Krušnoton XXXL" title="Krušnoton XXXL" /> <a href="/cycl_cz/2019-08-10-Krusnoton%20XXXL_cz">
-  <li class="listing-item">
-    <time datetime="post.date">2019-08-10</time>
-    <a href="/cycl_cz/2019-08-10-Krusnoton%20XXXL_cz" title="Krušnoton XXXL">Krušnoton XXXL</a>
-  </li>
-
-  
-  
-    <a href="/cycl_cz/2019-05-30-Praha%20-%20Doksy,%20UAC%20races_cz">
-    <img src="/images/Doksy_resized.jpg" alt="Praha - Doksy UAC silniční závod" title="Praha - Doksy UAC silniční závod" /> <a href="/cycl_cz/2019-05-30-Praha%20-%20Doksy,%20UAC%20races_cz">
-  <li class="listing-item">
-    <time datetime="post.date">2019-05-30</time>
-    <a href="/cycl_cz/2019-05-30-Praha%20-%20Doksy,%20UAC%20races_cz" title="Praha - Doksy UAC silniční závod">Praha - Doksy UAC silniční závod</a>
-  </li>
+     :: <a href="https://github.com/gchauras/much-worse-jekyll-theme">Website source</a>
+    
+    
+</footer>
 
 
-</a></a></a></a></ul>
-:ET
+    
+
+    </div>
+  </body>
+
+</html>
