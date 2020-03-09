@@ -13,9 +13,10 @@ permalink: /Road_cycling/heatmap
 
 
 <style>
-   body { margin: 0; padding: 0; }
-	#map { position: absolute  ; top: 50; bottom: 50; height: 65%; width: 70%; }
+   body { margin: 100; padding: 100; }
+	#map { position: absolute; top: 50; bottom: 50; height: 65%; width: 70%; }
 </style>
+
 
 
 

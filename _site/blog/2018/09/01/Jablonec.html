@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Abandoned village Jablonec</title>
-    <meta name="description" content="This is visualization of abandoned village Jablonec (Ogfolderhaid)Village was completely (even baroque church) destroyed in 1950s. there is millitary base at...">
+    <meta name="description" content="This is visualization of abandoned village Jablonec (Ogfolderhaid).Village was completely (even baroque church) destroyed in 1950s. There is millitary base a...">
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://localhost:4000/blog/2018/09/01/Jablonec">
@@ -90,7 +90,7 @@
     <div class="post">
     <header class="post-header">
     <h1>Abandoned village Jablonec</h1>
-    <p class="post-meta">Posted on February 20, 2020
+    <p class="post-meta">Posted on March 10, 2020
     </p>
     
     
@@ -104,8 +104,8 @@
     
     </header>
 
-    <p>This is visualization of abandoned village Jablonec (Ogfolderhaid)
-Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment.</p>
+    <p>This is visualization of abandoned village Jablonec (Ogfolderhaid).
+Village was completely (even baroque church) destroyed in 1950s. There is millitary base at this moment.</p>
 
 <p>Earth surface was created from vector-based digital contour model Zabaged. Size of buildings was estimated from cadastral map and old photographies. 
 Modelng procedure text is available <a href="https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing">here.</a> (czech language only)</p>
@@ -236,48 +236,53 @@ Additional info about this village is <a href="http://www.zaniklekrajiny.cz/atla
 <p><br /><br /></p>
 <h3> Compare 3D model with old photographs </h3>
 <p>When you left-click on image it will swap old photo with render
-<br />
-    <img alt="Street" src="images/J2.jpg" id="imgClickAndChange" />
+<br /></p>
+
+<p><img alt="Street" src="images/J2.jpg" id="imgClickAndChange" /></p>
+
 <script>     
-var images = ["images/J2.jpg", "images/J2O.jpg"]</script></p>
+var images = ["images/J2.jpg", "images/J2O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images[imgState];
 });
-&lt;/script&gt; 
-<br />
-    <img alt="Townhall" src="images/J9.jpg" id="imgClickAndChange2" />
+
+</script>
+
+<p><br /></p>
+
+<p><img alt="Townhall" src="images/J9.jpg" id="imgClickAndChange2" /></p>
+
 <script>     
-var images2 = ["images/J9.jpg", "images/J9O.jpg"]</script></p>
+var images2 = ["images/J9.jpg", "images/J9O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange2");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange2”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images2[imgState];
 });
-&lt;/script&gt; 
-<br />
-    <img alt="Square2" src="images/J8.jpg" id="imgClickAndChange3" />
+
+</script>
+
+<p><br /></p>
+
+<p><img alt="Square2" src="images/J8.jpg" id="imgClickAndChange3" /></p>
+
 <script>     
-var images3 = ["images/J8.jpg", "images/J8O.jpg"]</script></p>
+var images3 = ["images/J8.jpg", "images/J8O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange3");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange3”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images3[imgState];
 });
-&lt;/script&gt;</p>
+
+</script>
 
 <h3> Video </h3>
 <p>Fly-through the village Jablonec</p>

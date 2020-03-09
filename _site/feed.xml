@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-20T11:57:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-10T00:29:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
 
 &lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
 You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
@@ -334,9 +334,9 @@ Full text about this exhibition is available &lt;a href=&quot;http://web.natur.c
     
     &lt;img src=&quot;images/11.jpg&quot; alt=&quot;Detailní fotorealistické modely&quot; /&gt;
     &lt;/a&gt;Detailní fotorealistické modely
-&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">3D exhibition were held at our University during winter 2019. I have participated on that exhibition with 4 different posters showing my 3D models. Main purpouse of this exhibition was to show of projects, which are being made at our faculty to new potential students. Exhibition included 17 posters somehow related to the 3D modeling Full text about this exhibition is available here (czech language only).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/poster_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/poster_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">House at Kasperske Hory</title><link href="http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory" rel="alternate" type="text/html" title="House at Kasperske Hory" /><published>2019-03-11T00:00:00+01:00</published><updated>2019-03-11T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/03/11/House%20at%20Kasperske%20Hory</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory">&lt;p&gt;This is visualization house at Kasperske Hory town. This house is my dad’s property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic object would like include and what not.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">3D exhibition were held at our University during winter 2019. I have participated on that exhibition with 4 different posters showing my 3D models. Main purpouse of this exhibition was to show of projects, which are being made at our faculty to new potential students. Exhibition included 17 posters somehow related to the 3D modeling Full text about this exhibition is available here (czech language only).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/poster_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/poster_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">House at Kasperske Hory</title><link href="http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory" rel="alternate" type="text/html" title="House at Kasperske Hory" /><published>2019-03-11T00:00:00+01:00</published><updated>2019-03-11T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/03/11/House%20at%20Kasperske%20Hory</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/11/House-at-Kasperske-Hory">&lt;p&gt;This is visualization house at Kasperske Hory town. This house is my dad’s property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic objects would like include and what not.&lt;/p&gt;
 
-&lt;p&gt;The whole outter house was made in 3ds Max by me. The interior of the house was created in SketchUp beacouse of my dad wanted to cooeparte with me on the model. We also madel pipes distribution the building. MOreover we created furtniture and rooms orientation. my dad was asked by few people if they could buy a flat in that building after it will be finished. Now we used big advantage of already created 3D model and designed the whole flat as client want. I made also video fly-throught the flat and now it feels more realisteic and its more easy to imaginw how it will be.&lt;/p&gt;
+&lt;p&gt;The whole outter house was made in 3ds Max by me. The interior of the house was created in SketchUp becaouse of my dad wanted to cooperate with me on the model. We also made pipes distribution the building. Moreover we created furniture and rooms orientation. My dad was asked by few people if they could buy a flat in that building after it will be finished. Now we used big advantage of already created 3D model and designed the whole flat as clients want. I made also video fly-throught the flat and now it feels more realistic and it’s more easy to imagine how it will look like in the future.&lt;/p&gt;
 
 &lt;p&gt;This project was my first use of CAD in practice.&lt;/p&gt;
 
@@ -375,28 +375,28 @@ Full text about this exhibition is available &lt;a href=&quot;http://web.natur.c
 &lt;div class=&quot;captioned-img alignleft&quot;&gt;
     &lt;a href=&quot;kh ukazka CAD.JPG&quot;&gt;
     
-    &lt;img src=&quot;kh ukazka CAD.JPG&quot; alt=&quot;building in CAD&quot; /&gt;
-    &lt;/a&gt;building in CAD
+    &lt;img src=&quot;kh ukazka CAD.JPG&quot; alt=&quot;Building in CAD&quot; /&gt;
+    &lt;/a&gt;Building in CAD
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img alignleft&quot;&gt;
     &lt;a href=&quot;Sketchup.JPG&quot;&gt;
     
-    &lt;img src=&quot;Sketchup.JPG&quot; alt=&quot;interior of building in xray vision of SketchUp&quot; /&gt;
-    &lt;/a&gt;interior of building in xray vision of SketchUp
+    &lt;img src=&quot;Sketchup.JPG&quot; alt=&quot;Interior of building in x-ray vision of SketchUp&quot; /&gt;
+    &lt;/a&gt;Interior of building in x-ray vision of SketchUp
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;captioned-img alignleft&quot;&gt;
     &lt;a href=&quot;Sketchup2.JPG&quot;&gt;
     
-    &lt;img src=&quot;Sketchup2.JPG&quot; alt=&quot;details of interior in SketchUp&quot; /&gt;
-    &lt;/a&gt;details of interior in SketchUp
+    &lt;img src=&quot;Sketchup2.JPG&quot; alt=&quot;Details of interior in SketchUp&quot; /&gt;
+    &lt;/a&gt;Details of interior in SketchUp
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is visualization house at Kasperske Hory town. This house is my dad’s property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic object would like include and what not.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/kh_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/kh_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Abandoned village Jablonec</title><link href="http://localhost:4000/blog/2018/09/01/Jablonec" rel="alternate" type="text/html" title="Abandoned village Jablonec" /><published>2018-09-01T00:00:00+02:00</published><updated>2018-09-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/2018/09/01/Jablonec</id><content type="html" xml:base="http://localhost:4000/blog/2018/09/01/Jablonec">&lt;p&gt;This is visualization of abandoned village Jablonec (Ogfolderhaid)
-Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is visualization house at Kasperske Hory town. This house is my dad’s property and he is doing recontruction of that house right now (2020). My dad always wanted to do everything by himself, thats why he wanted to created a 3D model of house and decide what architectonic objects would like include and what not.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/kh_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/kh_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Abandoned village Jablonec</title><link href="http://localhost:4000/blog/2018/09/01/Jablonec" rel="alternate" type="text/html" title="Abandoned village Jablonec" /><published>2018-09-01T00:00:00+02:00</published><updated>2018-09-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/2018/09/01/Jablonec</id><content type="html" xml:base="http://localhost:4000/blog/2018/09/01/Jablonec">&lt;p&gt;This is visualization of abandoned village Jablonec (Ogfolderhaid).
+Village was completely (even baroque church) destroyed in 1950s. There is millitary base at this moment.&lt;/p&gt;
 
 &lt;p&gt;Earth surface was created from vector-based digital contour model Zabaged. Size of buildings was estimated from cadastral map and old photographies. 
 Modelng procedure text is available &lt;a href=&quot;https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
@@ -527,58 +527,63 @@ Additional info about this village is &lt;a href=&quot;http://www.zaniklekrajiny
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
 &lt;p&gt;When you left-click on image it will swap old photo with render
-&lt;br /&gt;
-    &lt;img alt=&quot;Street&quot; src=&quot;images/J2.jpg&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Street&quot; src=&quot;images/J2.jpg&quot; id=&quot;imgClickAndChange&quot; /&gt;&lt;/p&gt;
+
 &lt;script&gt;     
-var images = [&quot;images/J2.jpg&quot;, &quot;images/J2O.jpg&quot;]&lt;/script&gt;&lt;/p&gt;
+var images = [&quot;images/J2.jpg&quot;, &quot;images/J2O.jpg&quot;]
+var imgState = 0;
+var imgTag = document.getElementById(&quot;imgClickAndChange&quot;);
 
-&lt;p&gt;var imgState = 0;&lt;/p&gt;
-
-&lt;p&gt;var imgTag = document.getElementById(“imgClickAndChange”);&lt;/p&gt;
-
-&lt;p&gt;imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener(&quot;click&quot;, function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images[imgState];
 });
-&amp;lt;/script&amp;gt; 
-&lt;br /&gt;
-    &lt;img alt=&quot;Townhall&quot; src=&quot;images/J9.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;
+
+&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Townhall&quot; src=&quot;images/J9.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;&lt;/p&gt;
+
 &lt;script&gt;     
-var images2 = [&quot;images/J9.jpg&quot;, &quot;images/J9O.jpg&quot;]&lt;/script&gt;&lt;/p&gt;
+var images2 = [&quot;images/J9.jpg&quot;, &quot;images/J9O.jpg&quot;]
+var imgState = 0;
+var imgTag = document.getElementById(&quot;imgClickAndChange2&quot;);
 
-&lt;p&gt;var imgState = 0;&lt;/p&gt;
-
-&lt;p&gt;var imgTag = document.getElementById(“imgClickAndChange2”);&lt;/p&gt;
-
-&lt;p&gt;imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener(&quot;click&quot;, function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images2[imgState];
 });
-&amp;lt;/script&amp;gt; 
-&lt;br /&gt;
-    &lt;img alt=&quot;Square2&quot; src=&quot;images/J8.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;
+
+&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Square2&quot; src=&quot;images/J8.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;&lt;/p&gt;
+
 &lt;script&gt;     
-var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.jpg&quot;]&lt;/script&gt;&lt;/p&gt;
+var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.jpg&quot;]
+var imgState = 0;
+var imgTag = document.getElementById(&quot;imgClickAndChange3&quot;);
 
-&lt;p&gt;var imgState = 0;&lt;/p&gt;
-
-&lt;p&gt;var imgTag = document.getElementById(“imgClickAndChange3”);&lt;/p&gt;
-
-&lt;p&gt;imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener(&quot;click&quot;, function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images3[imgState];
 });
-&amp;lt;/script&amp;gt;&lt;/p&gt;
+
+&lt;/script&gt;
 
 &lt;h3&gt; Video &lt;/h3&gt;
 &lt;p&gt;Fly-through the village Jablonec&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yBfG8Soaxw4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is visualization of abandoned village Jablonec (Ogfolderhaid) Village was completely (even baroque church) destroyed in 1950s. there is millitary base at this moment.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/jablonec_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/jablonec_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Interior of Faculty of science</title><link href="http://localhost:4000/blog/2018/03/15/Interior-of-Faculty-of-science" rel="alternate" type="text/html" title="Interior of Faculty of science" /><published>2018-03-15T00:00:00+01:00</published><updated>2018-03-15T00:00:00+01:00</updated><id>http://localhost:4000/blog/2018/03/15/Interior%20of%20Faculty%20of%20science</id><content type="html" xml:base="http://localhost:4000/blog/2018/03/15/Interior-of-Faculty-of-science">&lt;p&gt;That was my first real 3D project ever. It was created as attachment for my bachelor thesys. My bachelor thesys was about comparing two CAD software specialy made for 3D modeling. The main goal was to creat criteriums for rating software for 3D modeling. I was testing how each software is behaving and what is the result under some circumstances and why. Whole thesys was rated as “excelent” and you could view it &lt;a href=&quot;https://is.cuni.cz/webapps/zzp/detail/198733/43429949/?q=%7B%22______searchform___search%22%3A%22mace%5Cu0161ka%22%2C%22______searchform___butsearch%22%3A%22Vyhledat%22%2C%22______facetform___facets___workType%22%3A%5B%22BP%22%5D%2C%22______facetform___facets___faculty%22%3A%5B%2211310%22%5D%2C%22______facetform___facets___defenseYear%22%3A%5B%222018%22%5D%2C%22PNzzpSearchListbasic%22%3A1%7D&amp;amp;lang=cs&quot;&gt;here.&lt;/a&gt; (only in czech language)&lt;br /&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yBfG8Soaxw4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is visualization of abandoned village Jablonec (Ogfolderhaid). Village was completely (even baroque church) destroyed in 1950s. There is millitary base at this moment.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/jablonec_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/jablonec_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Interior of Faculty of science</title><link href="http://localhost:4000/blog/2018/03/15/Interior-of-Faculty-of-science" rel="alternate" type="text/html" title="Interior of Faculty of science" /><published>2018-03-15T00:00:00+01:00</published><updated>2018-03-15T00:00:00+01:00</updated><id>http://localhost:4000/blog/2018/03/15/Interior%20of%20Faculty%20of%20science</id><content type="html" xml:base="http://localhost:4000/blog/2018/03/15/Interior-of-Faculty-of-science">&lt;p&gt;That was my first real 3D project ever. It was created as attachment for my bachelor thesis. My bachelor thesis was about comparing two CAD softwares specialy made for 3D modeling. The main goal was to create criteriums for rating software used for 3D modeling. I was testing how  software is behaving and what is the result under some circumstances and why. Whole thesis was rated as “excelent” and you could read it &lt;a href=&quot;https://is.cuni.cz/webapps/zzp/detail/198733/43429949/?q=%7B%22______searchform___search%22%3A%22mace%5Cu0161ka%22%2C%22______searchform___butsearch%22%3A%22Vyhledat%22%2C%22______facetform___facets___workType%22%3A%5B%22BP%22%5D%2C%22______facetform___facets___faculty%22%3A%5B%2211310%22%5D%2C%22______facetform___facets___defenseYear%22%3A%5B%222018%22%5D%2C%22PNzzpSearchListbasic%22%3A1%7D&amp;amp;lang=cs&quot;&gt;here.&lt;/a&gt; (only in czech language)&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Many thanks to Miroslav Čábelka who was my leader and thanks to him it was possible to create this.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Dimension of the building I got from IT support at our university. Florplan included completly everything even electric  appliances, doors, windows, etc. Only problem was with height of ceiling. I had to measure it by my own with laser distance meter Leica. With those dimensions I could start modeling. The whole model was created in 3ds Max and simultaneously in Blender. it tooked some time but I was able to get know both softwares properly. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Dimension of the building I got from IT support at our university. Floorplan included completly everything even electric  appliances, doors, windows, etc. Only problem was with height of ceiling. I had to measure it by my own with laser distance meter Leica. With those dimensions I could start modeling. The whole model was created in 3ds Max and simultaneously in Blender. it tooked some time but I was able to get know both softwares properly. &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Final render was set up in SW Lumion, due to its great realistic output, student licence and easy interactivity.&lt;/p&gt;
+&lt;p&gt;Final render was set up in SW Lumion, due to it’s great realistic output, student licence and easy interactivity.&lt;/p&gt;
 
 &lt;div class=&quot;captioned-img aligncenter&quot;&gt;
     &lt;a href=&quot;images/1I.png&quot;&gt;
@@ -672,4 +677,4 @@ var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.jpg&quot;]&lt;/script
 &lt;h3&gt; Video &lt;/h3&gt;
 &lt;p&gt;Fly-through school:&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d-2PAjpgR1w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">That was my first real 3D project ever. It was created as attachment for my bachelor thesys. My bachelor thesys was about comparing two CAD software specialy made for 3D modeling. The main goal was to creat criteriums for rating software for 3D modeling. I was testing how each software is behaving and what is the result under some circumstances and why. Whole thesys was rated as “excelent” and you could view it here. (only in czech language)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Interior_resized.png" /><media:content medium="image" url="http://localhost:4000/images/Interior_resized.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d-2PAjpgR1w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">That was my first real 3D project ever. It was created as attachment for my bachelor thesis. My bachelor thesis was about comparing two CAD softwares specialy made for 3D modeling. The main goal was to create criteriums for rating software used for 3D modeling. I was testing how software is behaving and what is the result under some circumstances and why. Whole thesis was rated as “excelent” and you could read it here. (only in czech language)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Interior_resized.png" /><media:content medium="image" url="http://localhost:4000/images/Interior_resized.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

@@ -10,7 +10,7 @@ ref: jablonec
 ---
 
 
-Jedná se o vizualizaci zeniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě nachází vojenská základna s tankovou střílnou. 
+Jedná se o vizualizaci zaniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě nachází vojenská základna s tankovou střílnou. 
 
 Povrch země modelu byl vytvořen z digitálního vektorového modelu vrstevnic Zabaged. Velikost budov byla odhadnuta z dobových fotografií a změřena ze starých katastrálních map. Celý proces modelace je dostupný [zde.](https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing)
 
@@ -21,17 +21,17 @@ V tomto případě se jednalo o mojí první placenou zakázku pro katedru aplik
 <br>
 {% include image.html url="images/J2.jpg" caption="Škola" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J3.jpg" caption="Kostel ze zadu" max_width="300px" align="center" %}
+{% include image.html url="images/J3.jpg" caption="Kostel zezadu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J4.jpg" caption="Ulice a Škole" max_width="300px" align="center" %}
+{% include image.html url="images/J4.jpg" caption="Ulice a škola" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/J5.jpg" caption="Náves" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J9.jpg" caption="Náves ze shora" max_width="300px" align="center" %}
+{% include image.html url="images/J9.jpg" caption="Náves seshora" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J7.jpg" caption="Kostel z vrchu" max_width="300px" align="center" %}
+{% include image.html url="images/J7.jpg" caption="Kostel shora" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J8.jpg" caption="Kostel ze zadu" max_width="300px" align="center" %}
+{% include image.html url="images/J8.jpg" caption="Kostel zezadu" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/J10.jpg" caption="Jablonec a kopec Kmet" max_width="300px" align="center" %}
 <br>
@@ -45,51 +45,55 @@ V tomto případě se jednalo o mojí první placenou zakázku pro katedru aplik
 <br>
 {% include image.html url="images/J15.jpg" caption="Jablonec v zimních měsících" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/J17.jpg" caption="Jablonec ze shora" max_width="300px" align="center" %}
+{% include image.html url="images/J17.jpg" caption="Jablonec seshora" max_width="300px" align="center" %}
 <br><br>
 <h3> Porovnání dobových fotek s 3D modelem </h3>
 Kliknutím se změní fotografie na dobovou fotografii
 <br>
-    <img alt="Street"  src="images/J2.jpg" id = "imgClickAndChange" />
+
+<img alt="Street"  src="images/J2.jpg" id = "imgClickAndChange" />
+
 <script>     
 var images = ["images/J2.jpg", "images/J2O.jpg"]
-
 var imgState = 0;
-
 var imgTag = document.getElementById("imgClickAndChange");
 
 imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images[imgState];
 });
+
 </script> 
+
 <br>
     <img alt="Townhall" src="images/J9.jpg"  id="imgClickAndChange2"   />
+    
 <script>     
 var images2 = ["images/J9.jpg", "images/J9O.jpg"]
-
 var imgState = 0;
-
 var imgTag = document.getElementById("imgClickAndChange2");
 
 imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images2[imgState];
 });
+
 </script> 
+
 <br>
-    <img alt="Square2" src="images/J8.jpg"  id="imgClickAndChange3"   />
+
+<img alt="Square2" src="images/J8.jpg"  id="imgClickAndChange3"   />
+
 <script>     
 var images3 = ["images/J8.jpg", "images/J8O.jpg"]
-
 var imgState = 0;
-
 var imgTag = document.getElementById("imgClickAndChange3");
 
 imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images3[imgState];
 });
+
 </script> 
 
 <h3> Video </h3>

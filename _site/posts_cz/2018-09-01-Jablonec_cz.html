@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Zaniklá obec Jablonec</title>
-    <meta name="description" content="Jedná se o vizualizaci zeniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě ...">
+    <meta name="description" content="Jedná se o vizualizaci zaniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě ...">
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://localhost:4000/posts_cz/2018-09-01-Jablonec_cz">
@@ -90,7 +90,7 @@
     <div class="post">
     <header class="post-header">
     <h1>Zaniklá obec Jablonec</h1>
-    <p class="post-meta">Publikováno 20. 2. 2020
+    <p class="post-meta">Publikováno 10. 3. 2020
     </p>
     
     
@@ -104,7 +104,7 @@
     
     </header>
 
-    <p>Jedná se o vizualizaci zeniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě nachází vojenská základna s tankovou střílnou.</p>
+    <p>Jedná se o vizualizaci zaniklé obce Jablonec (Ogfolderhaid). Vesnice, včetně barokního kostela byla zničena v letech okolo roku 1950. Nyní se na tomto místě nachází vojenská základna s tankovou střílnou.</p>
 
 <p>Povrch země modelu byl vytvořen z digitálního vektorového modelu vrstevnic Zabaged. Velikost budov byla odhadnuta z dobových fotografií a změřena ze starých katastrálních map. Celý proces modelace je dostupný <a href="https://drive.google.com/file/d/1w02unMZdq4FX71KxRKYxF9ETLqT3ZAy3/view?usp=sharing">zde.</a></p>
 
@@ -130,16 +130,16 @@
 <div class="captioned-img aligncenter">
     <a href="images/J3.jpg">
     
-    <img src="images/J3.jpg" alt="Kostel ze zadu" />
-    </a>Kostel ze zadu
+    <img src="images/J3.jpg" alt="Kostel zezadu" />
+    </a>Kostel zezadu
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/J4.jpg">
     
-    <img src="images/J4.jpg" alt="Ulice a Škole" />
-    </a>Ulice a Škole
+    <img src="images/J4.jpg" alt="Ulice a škola" />
+    </a>Ulice a škola
 </div>
 
 <p><br /></p>
@@ -154,24 +154,24 @@
 <div class="captioned-img aligncenter">
     <a href="images/J9.jpg">
     
-    <img src="images/J9.jpg" alt="Náves ze shora" />
-    </a>Náves ze shora
+    <img src="images/J9.jpg" alt="Náves seshora" />
+    </a>Náves seshora
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/J7.jpg">
     
-    <img src="images/J7.jpg" alt="Kostel z vrchu" />
-    </a>Kostel z vrchu
+    <img src="images/J7.jpg" alt="Kostel shora" />
+    </a>Kostel shora
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/J8.jpg">
     
-    <img src="images/J8.jpg" alt="Kostel ze zadu" />
-    </a>Kostel ze zadu
+    <img src="images/J8.jpg" alt="Kostel zezadu" />
+    </a>Kostel zezadu
 </div>
 
 <p><br /></p>
@@ -226,55 +226,59 @@
 <div class="captioned-img aligncenter">
     <a href="images/J17.jpg">
     
-    <img src="images/J17.jpg" alt="Jablonec ze shora" />
-    </a>Jablonec ze shora
+    <img src="images/J17.jpg" alt="Jablonec seshora" />
+    </a>Jablonec seshora
 </div>
 
 <p><br /><br /></p>
 <h3> Porovnání dobových fotek s 3D modelem </h3>
 <p>Kliknutím se změní fotografie na dobovou fotografii
-<br />
-    <img alt="Street" src="images/J2.jpg" id="imgClickAndChange" />
+<br /></p>
+
+<p><img alt="Street" src="images/J2.jpg" id="imgClickAndChange" /></p>
+
 <script>     
-var images = ["images/J2.jpg", "images/J2O.jpg"]</script></p>
+var images = ["images/J2.jpg", "images/J2O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images[imgState];
 });
-&lt;/script&gt; 
-<br />
-    <img alt="Townhall" src="images/J9.jpg" id="imgClickAndChange2" />
+
+</script>
+
+<p><br />
+    <img alt="Townhall" src="images/J9.jpg" id="imgClickAndChange2" /></p>
+
 <script>     
-var images2 = ["images/J9.jpg", "images/J9O.jpg"]</script></p>
+var images2 = ["images/J9.jpg", "images/J9O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange2");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange2”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images2[imgState];
 });
-&lt;/script&gt; 
-<br />
-    <img alt="Square2" src="images/J8.jpg" id="imgClickAndChange3" />
+
+</script>
+
+<p><br /></p>
+
+<p><img alt="Square2" src="images/J8.jpg" id="imgClickAndChange3" /></p>
+
 <script>     
-var images3 = ["images/J8.jpg", "images/J8O.jpg"]</script></p>
+var images3 = ["images/J8.jpg", "images/J8O.jpg"]
+var imgState = 0;
+var imgTag = document.getElementById("imgClickAndChange3");
 
-<p>var imgState = 0;</p>
-
-<p>var imgTag = document.getElementById(“imgClickAndChange3”);</p>
-
-<p>imgTag.addEventListener(“click”, function (event) {
+imgTag.addEventListener("click", function (event) {
   imgState = (++imgState % images.length);
   event.target.src = images3[imgState];
 });
-&lt;/script&gt;</p>
+
+</script>
 
 <h3> Video </h3>
 <h5>Video zachycují průlet celou vesnicí Jablonec</h5>
