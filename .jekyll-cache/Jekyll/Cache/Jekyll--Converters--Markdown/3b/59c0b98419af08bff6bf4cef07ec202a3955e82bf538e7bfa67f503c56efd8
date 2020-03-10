@@ -1,28 +1,18 @@
----
-layout: page
-title: Heatmap
-lang: en
-ref: heatmap
-permalink: /Road_cycling/heatmap
----
+I"Å$<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
+<script src="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js"></script>
 
-<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
-<script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
-
+<link href="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css" rel="stylesheet" />
 
 <style>
-    body { margin: 100; padding: 100; }
-    #map { position: absolute; top: 0; bottom: 0; height: 80%; width: 70%; }
+   body { margin: 100; padding: 100; }
+	#map { position: absolute; top: 0; bottom: 50; width: 100%; }
 </style>
 
+<!--// map -->
+<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js"></script>
 
-
-
-<!--// map --> 
-<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
-<div id='map'></div>
+<div id="map"></div>
 
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoibWFjZXNrYSIsImEiOiJjazVhMDFmbGgxMmxnM21wZ3BvNjJhdXMzIn0.OC2jBDlbR4AE1rhBzI__cQ';
@@ -248,3 +238,4 @@ var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/mace
 
 </script>
 
+:ET

@@ -1,4 +1,4 @@
-I"Ò$<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+I"Ð$<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
 <script src="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js"></script>
 
@@ -6,7 +6,7 @@
 
 <style>
    body { margin: 100; padding: 100; }
-	#map { position: absolute; top: 50; bottom: 50; height: 65%; width: 70%; }
+	#map { position: absolute; top: 0; bottom: 0; height: 65%; width: 70%; }
 </style>
 
 <!--// map -->
