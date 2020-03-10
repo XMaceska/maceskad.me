@@ -54,7 +54,7 @@ Kliknutím se změní fotografie na dobovou fotografii
 <img alt="Street"  src="images/J2.jpg" id = "imgClickAndChange" />
 
 <script>     
-var images = ["images/J2.jpg", "images/J2O.jpg"]
+var images = ["images/J2.jpg", "images/J2O.JPG"]
 var imgState = 0;
 var imgTag = document.getElementById("imgClickAndChange");
 
@@ -69,7 +69,7 @@ imgTag.addEventListener("click", function (event) {
     <img alt="Townhall" src="images/J9.jpg"  id="imgClickAndChange2"   />
     
 <script>     
-var images2 = ["images/J9.jpg", "images/J9O.jpg"]
+var images2 = ["images/J9.jpg", "images/J9O.JPG"]
 var imgState = 0;
 var imgTag = document.getElementById("imgClickAndChange2");
 
@@ -85,7 +85,7 @@ imgTag.addEventListener("click", function (event) {
 <img alt="Square2" src="images/J8.jpg"  id="imgClickAndChange3"   />
 
 <script>     
-var images3 = ["images/J8.jpg", "images/J8O.jpg"]
+var images3 = ["images/J8.jpg", "images/J8O.JPG"]
 var imgState = 0;
 var imgTag = document.getElementById("imgClickAndChange3");
 

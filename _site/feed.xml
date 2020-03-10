@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-10T20:37:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-10T20:44:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
 
 &lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
 You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
@@ -532,7 +532,7 @@ Additional info about this village is &lt;a href=&quot;http://www.zaniklekrajiny
 &lt;p&gt;&lt;img alt=&quot;Street&quot; src=&quot;images/J2.jpg&quot; id=&quot;imgClickAndChange&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;     
-var images = [&quot;images/J2.jpg&quot;, &quot;images/J2O.jpg&quot;]
+var images = [&quot;images/J2.jpg&quot;, &quot;images/J2O.JPG&quot;]
 var imgState = 0;
 var imgTag = document.getElementById(&quot;imgClickAndChange&quot;);
 
@@ -548,7 +548,7 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
 &lt;p&gt;&lt;img alt=&quot;Townhall&quot; src=&quot;images/J9.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;     
-var images2 = [&quot;images/J9.jpg&quot;, &quot;images/J9O.jpg&quot;]
+var images2 = [&quot;images/J9.jpg&quot;, &quot;images/J9O.JPG&quot;]
 var imgState = 0;
 var imgTag = document.getElementById(&quot;imgClickAndChange2&quot;);
 
@@ -564,7 +564,7 @@ imgTag.addEventListener(&quot;click&quot;, function (event) {
 &lt;p&gt;&lt;img alt=&quot;Square2&quot; src=&quot;images/J8.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;     
-var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.jpg&quot;]
+var images3 = [&quot;images/J8.jpg&quot;, &quot;images/J8O.JPG&quot;]
 var imgState = 0;
 var imgTag = document.getElementById(&quot;imgClickAndChange3&quot;);
 
