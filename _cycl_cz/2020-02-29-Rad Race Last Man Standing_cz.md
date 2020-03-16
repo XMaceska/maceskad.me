@@ -36,8 +36,6 @@ Víkend poctivej určitě.
 <br>
 {% include image.html url="images/lms2.jpg" caption="Start, já s číslem 70" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/lms2.jpg" caption="Start, já s číslem 70" max_width="300px" align="center" %}
-<br>
 {% include image.html url="images/lms3.jpg" caption="Start, já s číslem 70" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/lms4.jpg" caption="Borci" max_width="300px" align="center" %}
