@@ -32,7 +32,7 @@ Druhý den ještě navšítívíme veltrh Kolektif Berlin, kde si koupim jen ně
 
 Víkend poctivej určitě. 
 
-{% include image.html url="images/lms.jpg" caption="Já na čele" max_width="300px" align="center" %}
+{% include image.html url="images/lms1.jpg" caption="Já na čele" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/lms2.jpg" caption="Start, já s číslem 70" max_width="300px" align="center" %}
 <br>
