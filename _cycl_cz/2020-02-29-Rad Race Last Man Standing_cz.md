@@ -28,7 +28,7 @@ Další jízda byla až 3 hodiny. Sleduju ostatní jezdce a dost tuhnu. Vidím p
 
 Sledovat závod jako divák je sice fajn, ale závodit je mnohem lepší. jsem z toho fakt smutnej a už rovnou se pomalu začínám motivovat na další rok. Příští tok do toho dám víc. Budu z toho mít měnší respekt a víc to budu rvát. Ty pády jsou sice častý, ale nejsou nějak šílený, padá se v realitvně malých rychlostech, tak to není zas tak nebezpečný jak se zdá. Následuje afterparty, ale já nemám moc co slavit, takže si to uplně neužívám, na místě jsme sice do 3 ráno, ale furt jsem pokrytej dekou. 
 
-Druhý den ještě navšítívíme veltrh Kolektif Berlin, kde si koupim jen nějaké triko a nic moc zásadního. Veletrh nějak super moc není, takže se loučíme s kamarádem s Martinem a zůstáváme v Berlíně. Oni jedou do ČR, my jedem vlakem do itálie na hory.
+Druhý den ještě navšítívíme veltrh Kolektif Berlin, kde si koupim jen nějaké triko a nic moc zásadního. Veletrh nějak super moc není, takže se loučíme s kamarádem s Martinem a zůstáváme v Berlíně. Oni jedou do ČR, my jedem vlakem do Itálie na hory.
 
 Víkend poctivej určitě. 
 
