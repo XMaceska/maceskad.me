@@ -33,6 +33,7 @@ Druhý den ještě navšítívíme veltrh Kolektif Berlin, kde si koupim jen ně
 Víkend poctivej určitě. 
 
 Video z [roku 2019](https://www.youtube.com/watch?v=VPdC_fbdsb8)
+<br>
 Video z [roku 2020](https://www.youtube.com/watch?v=ArzMdQT_72g)
 
 
