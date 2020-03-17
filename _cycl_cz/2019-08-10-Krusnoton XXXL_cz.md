@@ -9,6 +9,7 @@ ref: krusnoton
 lang: cz
 
 ---
+
 <h3>Registrace </h3>
 Jednoho dne jsme dali s kámošem Martinem 150km jízdu směrem na křivoklátsko. Po jízdě padly dvě rychlý piva a najednou přišli dva kamarádi Martina a přiseli k nám. Mluvili jsme a najednou z ničeho nic se zeptali, jestli jsme už přihlášený na Krušnoston. My jsme zareagovali "cože? Jakej Krušnoton". Pár minut poté jsme se přihlásili na nejdelší jednodenní závod s nejvyšší možnou nastoupanou výškou jaký si mohu představit.
 <br><br>

@@ -48,6 +48,10 @@ collections:
     output: true
   blo:
     output: true
+    
+    
+plugins:
+    jekyll-last-modified-at
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.

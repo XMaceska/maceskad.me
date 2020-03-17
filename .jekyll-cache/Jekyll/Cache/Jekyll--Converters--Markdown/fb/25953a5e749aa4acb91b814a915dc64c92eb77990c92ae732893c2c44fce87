@@ -1,4 +1,4 @@
-I"	<p>Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i nějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách.</p>
+I"@<p>Rád ovládám jakékoli rychlé kolo, které má berany. Jezdím už nějakou dobu a účastnil jsem se několika cyklokrosových, silničních i dráhových závodů. Kolo mi přijde fakt super a tak si díky tomuto nástroji dokáži vydělat občas i nějaký měšec plný peněz. Jezdím totiž jako messenger po Praze a práce to je, ale prací to nenazývám. Dojíždim na kole po Praze těměř vždy a všude. Občas nejenom po Praze, ale i po Čechách.</p>
 
 <p>Na Stravě mám vše:</p>
 
@@ -12,6 +12,18 @@
 <h3>Races</h3>
 <ul class="listing">
 
+
+  
+  
+    
+    <li class="listing-seperator">2020</li>
+  
+    <a href="/cycl_cz/2020-02-29-Rad%20Race%20Last%20Man%20Standing_cz">
+    <img src="/images/RadRace_resized.jpg" alt="Rad Race Last man standing" title="Rad Race Last man standing" /> <a href="/cycl_cz/2020-02-29-Rad%20Race%20Last%20Man%20Standing_cz">
+  <li class="listing-item">
+    <time datetime="post.date">2020-02-29</time>
+    <a href="/cycl_cz/2020-02-29-Rad%20Race%20Last%20Man%20Standing_cz" title="Rad Race Last man standing">Rad Race Last man standing</a>
+  </li>
 
   
   
@@ -35,5 +47,5 @@
   </li>
 
 
-</a></a></a></a></ul>
+</a></a></a></a></a></a></ul>
 :ET
