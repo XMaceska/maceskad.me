@@ -20,6 +20,9 @@ Google Streetview from Campus Albertov:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 <h3> Interactive 3D Model </h3>
+<i>If 3D model is not loading, please turn off your Adblock.
+<br>
+    
 You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find place where campus is situtated.
 <script async src="https://www.theasys.io/static/embed.js" data-theasys="OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa" data-height="600"></script>
 

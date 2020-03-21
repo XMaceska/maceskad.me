@@ -30,7 +30,7 @@ I am watching the race as a specator, its ok, but racing is much better. I am to
 
 Next day we visited cycle fair Kolektif Berlin. I am not really impressed by the stuff, they presented at the fair. My and my girlfriend Ada are saying goodby to our frieds. they are going back to Czechia. We are going to spend another day in Berling and later on take train to Italy for a skiing.
 
-Proped weekend definately
+Proper weekend definately
 
 Video from [year 2019](https://www.youtube.com/watch?v=VPdC_fbdsb8)
 <br>

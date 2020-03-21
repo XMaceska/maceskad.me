@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-17T12:11:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-21T16:58:05+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
 
 &lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
 You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
@@ -6,7 +6,10 @@ You can download whole modeling procedure text &lt;a href=&quot;https://drive.go
 &lt;p&gt;It was my second paid job for National culture heritage (NAKI). 
 Additional info about abandoned village is &lt;a href=&quot;http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/novomlynske-nadrze&quot;&gt;here.&lt;/a&gt; (czech language only)
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3&gt; Interactive 3D model &lt;/h3&gt;
+&lt;h3&gt; Interactive 3D model&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;If 3D model is not loading, please turn off your Adblock.
+&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+
 &lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;800&quot;&gt;&lt;/script&gt;
 hosted with: Theasys.io
@@ -212,6 +215,9 @@ You can download modeling procedure text &lt;a href=&quot;https://drive.google.c
 &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3&gt; Interactive 3D Model &lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;If 3D model is not loading, please turn off your Adblock.
+&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+
 &lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find place where campus is situtated.
 &lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa&quot; data-height=&quot;600&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 

@@ -21,6 +21,9 @@ Google Streetview Kampusu Albertov:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1578154532410!6m8!1m7!1sIBz5NglI-cO8mSphpNW3kQ!2m2!1d50.06812335049958!2d14.42102467119828!3f50.539742555347516!4f-11.135201394074457!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 <h3> Interaktivní 3D Model </h3>
+<i>Pokud se 3D model nenačítá, prosím vypněte Adblock.
+<br>
+    
 V modelu je možné se pohybovat za pomocí zelených šipek. Režim celé obrazovky a režim pro virtuální realitu je možné zapnout ikonami v pravém horních rohu. V panelu na pravé straně je možné zobrazit mapu s umístěním kampusu Albertov.
 <script async src="https://www.theasys.io/static/embed.js" data-theasys="OjJYDu4IrCk0u1sjsyzbnC9VMq1hKa" data-height="600"></script>
 

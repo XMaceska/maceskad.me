@@ -1,22 +1,24 @@
-I"�<p>This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.</p>
+I"�<p>Toto je 3D vizualizace zaniklé obce Mušov (Muschau). Vesnice byla zatopena v roce 1978 vodní nádrží Nové Mlýny. Nyní se na tomto místě nachází pouze nepřístupný ostrov s kostelem.</p>
 
-<p>The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
-You can download whole modeling procedure text <a href="https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing">here.</a> (czech language only)</p>
+<p>Povrch země 3D modelu byl získán interpolací z vrstevnic vektorového digitálního modelu Zabaged. Měřítko budov bylo změřeno z dobových fotografií a z dobové katastrální mapy. Sochy byly vymodelovýny v SW Mudbox. Celý postup tvorby je k dispozici <a href="https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing">zde.</a></p>
 
-<p>It was my second paid job for National culture heritage (NAKI). 
-Additional info about abandoned village is <a href="http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/novomlynske-nadrze">here.</a> (czech language only)
+<p>V tomto případě se jednalo o mojí druhou placenou zakázku pro katedru aplikované geografie, spolupracující s ministerstvem kultury. Projekt vznikl jako program na podporu aplikovaného výzkumu a vývoje národní a kulturní identity (NAKI). 
+Více infomrací o zaniklé vesnici k dispozici <a href="http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/novomlynske-nadrze">zde.</a> 
 <br /><br /></p>
-<h3> Interactive 3D model </h3>
-<p>You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
+<h3> Interaktivní 3D model </h3>
+<p><i>Pokud se 3D model nenačítá, prosím vypněte Adblock.
+<br /></i></p>
+
+<p>Pohybovat se lze pomocí zelených šipek umístěných v modelu. Zároveň je možné zapnout režim celé obrazovky a také lze spustit režim pro virtuální realitu. V panelu umístěném v pravé části okna lze zobrazit starou katastrální mapu a původní místo, kde se původně vesnice nacházela.
 <script async="" src="https://www.theasys.io/static/embed.js" data-theasys="vWEdS8mWRAgIomQAykG3TFmUqPPbpb" data-height="800"></script>
 hosted with: Theasys.io
 <br /><br /></p>
-<h3> Renders </h3>
+<h3> Rendery </h3>
 <div class="captioned-img aligncenter">
     <a href="images/1M.jpg">
     
-    <img src="images/1M.jpg" alt="School" />
-    </a>School
+    <img src="images/1M.jpg" alt="Škola" />
+    </a>Škola
 </div>
 
 <p><br /></p>
@@ -31,117 +33,117 @@ hosted with: Theasys.io
 <div class="captioned-img aligncenter">
     <a href="images/3M.jpg">
     
-    <img src="images/3M.jpg" alt="School and square" />
-    </a>School and square
+    <img src="images/3M.jpg" alt="Škola a náměstí" />
+    </a>Škola a náměstí
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/5M.jpg">
     
-    <img src="images/5M.jpg" alt="Church of saint Linhart" />
-    </a>Church of saint Linhart
+    <img src="images/5M.jpg" alt="Kostel sv. Linharta" />
+    </a>Kostel sv. Linharta
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/7M.jpg">
     
-    <img src="images/7M.jpg" alt="Townhall and statute of saint Jan Nepomucký" />
-    </a>Townhall and statute of saint Jan Nepomucký
+    <img src="images/7M.jpg" alt="Radnice a socha sv. Jana Nepomuckého" />
+    </a>Radnice a socha sv. Jana Nepomuckého
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/8M.jpg">
     
-    <img src="images/8M.jpg" alt="Church of saint Linhart" />
-    </a>Church of saint Linhart
+    <img src="images/8M.jpg" alt="Kostel sv. Linharta" />
+    </a>Kostel sv. Linharta
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/9M.jpg">
     
-    <img src="images/9M.jpg" alt="Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký" />
-    </a>Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
+    <img src="images/9M.jpg" alt="Kostel sv. Linharta, Orstrasse a socha sv. Jana Nepomuckého" />
+    </a>Kostel sv. Linharta, Orstrasse a socha sv. Jana Nepomuckého
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/13M.jpg">
     
-    <img src="images/13M.jpg" alt="Square" />
-    </a>Square
+    <img src="images/13M.jpg" alt="Náměstí" />
+    </a>Náměstí
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/15M.jpg">
     
-    <img src="images/15M.jpg" alt="Square from top" />
-    </a>Square from top
+    <img src="images/15M.jpg" alt="Náměstí ze shora" />
+    </a>Náměstí ze shora
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/16M.jpg">
     
-    <img src="images/16M.jpg" alt="Village in rainy weather" />
-    </a>Village in rainy weather
+    <img src="images/16M.jpg" alt="Vesnice v deštivém počasí" />
+    </a>Vesnice v deštivém počasí
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/17M.jpg">
     
-    <img src="images/17M.jpg" alt="Village in evening" />
-    </a>Village in evening
+    <img src="images/17M.jpg" alt="Vesnice ve večerních hodinách" />
+    </a>Vesnice ve večerních hodinách
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/21M.jpg">
     
-    <img src="images/21M.jpg" alt="Foggy weather" />
-    </a>Foggy weather
+    <img src="images/21M.jpg" alt="Vesnice v mlze" />
+    </a>Vesnice v mlze
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/12M.jpg">
     
-    <img src="images/12M.jpg" alt="School and rainy weather" />
-    </a>School and rainy weather
+    <img src="images/12M.jpg" alt="Škola v deštivém počasí" />
+    </a>Škola v deštivém počasí
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/23M.jpg">
     
-    <img src="images/23M.jpg" alt="Village in evening" />
-    </a>Village in evening
+    <img src="images/23M.jpg" alt="Vesnice ve večerních hodinách" />
+    </a>Vesnice ve večerních hodinách
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/25M.jpg">
     
-    <img src="images/25M.jpg" alt="Roof detail" />
-    </a>Roof detail
+    <img src="images/25M.jpg" alt="detail střechy" />
+    </a>detail střechy
 </div>
 
 <p><br /></p>
 <div class="captioned-img aligncenter">
     <a href="images/4M.jpg">
     
-    <img src="images/4M.jpg" alt="Village from top" />
-    </a>Village from top
+    <img src="images/4M.jpg" alt="Vesnice ze shora" />
+    </a>Vesnice ze shora
 </div>
 
 <p><br /><br /></p>
-<h3> Compare 3D model with old photographs </h3>
-<p>When you left-click on image it will swap old photo with render</p>
+<h3> Porovnání 3D modelu s dobovými fotografiemi </h3>
+<p>Kliknutím na fotografii lze porovnat render s dobovou fotografií</p>
 <p>
 <img src="images/5M.jpg" alt="Square" id="imgClickAndChange" />
 <script>     
@@ -157,7 +159,7 @@ imgTag.addEventListener("click", function (event) {
 });
 </script> 
 <p>
-    <img alt="Townhall" src="images/6M.jpg" id="imgClickAndChange2" />
+<img alt="Townhall" src="images/6M.jpg" id="imgClickAndChange2" />
 <script>     
 var images2 = ["images/6M.jpg", "images/6MO.jpg"]
 
@@ -171,7 +173,7 @@ imgTag.addEventListener("click", function (event) {
 });
 </script> 
 <p>
-    <img alt="Square2" src="images/3M.jpg" id="imgClickAndChange3" />
+<img alt="Square2" src="images/3M.jpg" id="imgClickAndChange3" />
 <script>     
 var images3 = ["images/3M.jpg", "images/3MO.jpg"]
 
@@ -185,7 +187,7 @@ imgTag.addEventListener("click", function (event) {
 });
 </script> 
 <p>
-    <img alt="Church" src="images/8M.jpg" id="imgClickAndChange4" />
+<img alt="Church" src="images/8M.jpg" id="imgClickAndChange4" />
 <script>     
 var images4 = ["images/8M.jpg", "images/8MO.JPG"]
 
@@ -199,7 +201,7 @@ imgTag.addEventListener("click", function (event) {
 });
 </script> 
 <h3> Video </h3>
-Fly-through village:
+Video zachycující průlet skrz celou vesnicí:
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgXLj6BLhOU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </p></p></p></p>
