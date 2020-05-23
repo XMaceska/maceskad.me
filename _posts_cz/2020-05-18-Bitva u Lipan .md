@@ -36,19 +36,19 @@ Jen pro ujasnění jak probíhala bitva:
 
 
 
-{% include image.html url="images/44.jpg" caption="1 - tábor radikálů (modrá) a umírněných (červená) husitů" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/44.jpg" caption="1 - tábor radikálů (modrá) a umírněných (červená) husitů" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/49.jpg" caption="2 - Radikálové mírně útočí" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/49.jpg" caption="2 - Radikálové mírně útočí" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/50.jpg" caption="3 - Radikálové předstírají ústup" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/50.jpg" caption="3 - Radikálové předstírají ústup" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/53.jpg" caption="4 - Radikálové používají kavalérii" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/53.jpg" caption="4 - Radikálové používají kavalérii" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/48.jpg" caption="5 - ústup umírněných husitů" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/48.jpg" caption="5 - ústup umírněných husitů" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/38(1).jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/38(1).jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/55.jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/55.jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/33.jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
+{% include image.html url="images/lipany/33.jpg" caption="Povrch bez schématu" max_width="300px" align="center" %}
 <br>
