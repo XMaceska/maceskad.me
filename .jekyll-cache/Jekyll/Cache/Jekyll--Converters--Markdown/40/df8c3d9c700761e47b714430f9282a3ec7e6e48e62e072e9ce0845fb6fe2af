@@ -1,0 +1,26 @@
+I"c
+<p>This is visualization of schema of Lipany battle, which happened at 1436 close to the village Lipany. battle was between radical hussites againts restrained hussites.</p>
+
+<p>That was my first project assigned by G4D. Main purpose of this visualization was to clearly present schema of Lipany battle in 3D. Customer ordered this assigment at G4D to impress jury, while he was vindicating his diploma thesys. His diploma thesys was realted to Lipany battle and everything always look better in 3D, thats why he got idea to visualize the battle in 3D. And now thats my job to do it.</p>
+
+<p>It was somehow new for me. First I had to settle out with software licences. I got used to on student licence for everything. In this situation it completly different. It is real commercial job and every licence have to be validated. Fortunately G4D company have got Autodesk 3ds Max licence purchased. On the other hand they doesnt have licence for Lumion and Photoshop.</p>
+
+<p>Until this moment all my texture, lights, render job was made in Lumion. To be honest its pretty easy software for this kind of job. Now I had to learn to do it everything in 3ds Max. Afterall I could say, taht it definatly worth it. 3ds Max has great render settings, amazing UV texture editor and lights. Everything is much more complicated, but result is much more better.</p>
+
+<p>Ground surface I got from DMR 5G, which is laser-scaned ground surface for Czechia. G4D purchased land, which I needed for this project and I had to convert it to mesh (originaly it was only in XYZ points).</p>
+
+<p>Later on it was lots of modeling the surface especialy streams and road, which was there befero and aren’t there anymore. I had to deal with vertex paint, reflection at water, multi-sub object textures, enviroment, fog, sun, displacement, bump and so on. Totally I spent on this project around 80 hours officialy, but to be honest I spent even more, while I was learing new stuff at 3ds Max.</p>
+
+<p>In the end I was bit struggling with export to .obj. G4D wanted to have whole model in .obj for their presentation on website. but unfortunately all textures and materials was complex enought, that it wasn’t easy to export objet to .obj just because there were lot’s of 3ds Max specific toolset (when I exported the object it was just plain withou texture). But fortunately I found out and learn how to bake textures and export was in the end successfull.</p>
+
+<h3> Renders </h3>
+<p><br /></p>
+<div class="captioned-img aligncenter">
+    <a href="images/55.jpg">
+    
+    <img src="images/55.jpg" alt="Surface without schema" />
+    </a>Surface without schema
+</div>
+
+<p><br /></p>
+:ET

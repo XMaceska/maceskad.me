@@ -1,7 +1,18 @@
-I"i
-<p>I am doing 3D visualization of real or unreal objects. On this page you can find all my projects I did or I am working on.</p>
+I"<p>I am doing 3D visualization of real or unreal objects. On this page you can find all my projects I did or I am working on.</p>
 
 <ul class="listing">
+
+  
+  
+    
+    <li class="listing-seperator">2020</li>
+  
+    <a href="/blog/2020/05/18/Lipany-Battle">
+    <img src="/images/lipany_resized.jpg" alt="Lipany battle" title="Lipany battle" /> <a href="/blog/2020/05/18/Lipany-Battle">
+  <li class="listing-item">
+    <time datetime="post.date">2020-05-18</time>
+    <a href="/blog/2020/05/18/Lipany-Battle" title="Lipany battle">Lipany battle</a>
+  </li>
 
   
   
@@ -64,5 +75,5 @@
   </li>
 
 
-</a></a></a></a></a></a></a></a></a></a></a></a></ul>
+</a></a></a></a></a></a></a></a></a></a></a></a></a></a></ul>
 :ET

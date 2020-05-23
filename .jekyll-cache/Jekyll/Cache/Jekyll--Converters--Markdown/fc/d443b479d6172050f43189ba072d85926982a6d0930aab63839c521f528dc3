@@ -1,12 +1,55 @@
-I"e<p>Here is the much awaited blog.</p>
+I"ò<p>Here is the much awaited blog.</p>
 
 <ul class="listing">
 
   
   
     
+    <li class="listing-seperator">2020</li>
+  
+
+//IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/Musov_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/School_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/poster_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/kh_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/jablonec_resized.jpg" />
+//IMAGE
+
+//IMAGE
+      <img src="/images//images/Interior_resized.png" />
+//IMAGE
+
+  <li class="listing-item">
+    <time datetime="2020-05-18">post.date</time>
+    <a href="/blog/2020/05/18/Lipany-Battle" title="Lipany battle">Lipany battle</a>
+  </li>
+
+  
+  
+    
     <li class="listing-seperator">2019</li>
   
+
+//IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
 
 //IMAGE
       <img src="/images//images/Musov_resized.jpg" />
@@ -41,6 +84,10 @@
   
 
 //IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
+
+//IMAGE
       <img src="/images//images/Musov_resized.jpg" />
 //IMAGE
 
@@ -73,6 +120,10 @@
   
 
 //IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
+
+//IMAGE
       <img src="/images//images/Musov_resized.jpg" />
 //IMAGE
 
@@ -103,6 +154,10 @@
 
   
   
+
+//IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
 
 //IMAGE
       <img src="/images//images/Musov_resized.jpg" />
@@ -140,6 +195,10 @@
   
 
 //IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
+
+//IMAGE
       <img src="/images//images/Musov_resized.jpg" />
 //IMAGE
 
@@ -170,6 +229,10 @@
 
   
   
+
+//IMAGE
+      <img src="/images//images/lipany_resized.jpg" />
+//IMAGE
 
 //IMAGE
       <img src="/images//images/Musov_resized.jpg" />
