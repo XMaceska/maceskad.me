@@ -1,4 +1,211 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-13T14:53:06+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-23T22:48:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David Maceska</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Musov" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Musov</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Musov">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
+
+&lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
+You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
+
+&lt;p&gt;It was my second paid job for National culture heritage (NAKI). 
+Additional info about abandoned village is &lt;a href=&quot;http://www.zaniklekrajiny.cz/atlas/modelova-uzemi/novomlynske-nadrze&quot;&gt;here.&lt;/a&gt; (czech language only)
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Interactive 3D model&lt;/h3&gt;
+&lt;p&gt;&lt;i&gt;If 3D model is not loading, please turn off your Adblock.
+&lt;br /&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;You are able to jump in 3D model using green arrows. Fullscreen and VR mode is also supported (icons on right upper corner). In right-side panel you are able to find old cadastral map and place where this village was originally situtated.
+&lt;script async=&quot;&quot; src=&quot;https://www.theasys.io/static/embed.js&quot; data-theasys=&quot;vWEdS8mWRAgIomQAykG3TFmUqPPbpb&quot; data-height=&quot;800&quot;&gt;&lt;/script&gt;
+hosted with: Theasys.io
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Renders &lt;/h3&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/1M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/1M.jpg&quot; alt=&quot;School&quot; /&gt;
+    &lt;/a&gt;School
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/2M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/2M.jpg&quot; alt=&quot;Ortstrasse&quot; /&gt;
+    &lt;/a&gt;Ortstrasse
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/3M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/3M.jpg&quot; alt=&quot;School and square&quot; /&gt;
+    &lt;/a&gt;School and square
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/5M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/5M.jpg&quot; alt=&quot;Church of saint Linhart&quot; /&gt;
+    &lt;/a&gt;Church of saint Linhart
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/7M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/7M.jpg&quot; alt=&quot;Townhall and statute of saint Jan Nepomucký&quot; /&gt;
+    &lt;/a&gt;Townhall and statute of saint Jan Nepomucký
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/8M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/8M.jpg&quot; alt=&quot;Church of saint Linhart&quot; /&gt;
+    &lt;/a&gt;Church of saint Linhart
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/9M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/9M.jpg&quot; alt=&quot;Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký&quot; /&gt;
+    &lt;/a&gt;Church of saint Linhart, Orstrasse and statute of saint Jan Nepomucký
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/13M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/13M.jpg&quot; alt=&quot;Square&quot; /&gt;
+    &lt;/a&gt;Square
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/15M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/15M.jpg&quot; alt=&quot;Square from top&quot; /&gt;
+    &lt;/a&gt;Square from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/16M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/16M.jpg&quot; alt=&quot;Village in rainy weather&quot; /&gt;
+    &lt;/a&gt;Village in rainy weather
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/17M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/17M.jpg&quot; alt=&quot;Village in evening&quot; /&gt;
+    &lt;/a&gt;Village in evening
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/21M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/21M.jpg&quot; alt=&quot;Foggy weather&quot; /&gt;
+    &lt;/a&gt;Foggy weather
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/12M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/12M.jpg&quot; alt=&quot;School and rainy weather&quot; /&gt;
+    &lt;/a&gt;School and rainy weather
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/23M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/23M.jpg&quot; alt=&quot;Village in evening&quot; /&gt;
+    &lt;/a&gt;Village in evening
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/25M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/25M.jpg&quot; alt=&quot;Roof detail&quot; /&gt;
+    &lt;/a&gt;Roof detail
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/4M.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/4M.jpg&quot; alt=&quot;Village from top&quot; /&gt;
+    &lt;/a&gt;Village from top
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Compare 3D model with old photographs &lt;/h3&gt;
+&lt;p&gt;When you left-click on image it will swap old photo with render&lt;/p&gt;
+&lt;p&gt;
+&lt;img src=&quot;images/5M.jpg&quot; alt=&quot;Square&quot; id=&quot;imgClickAndChange&quot; /&gt;
+&lt;script&gt;     
+var images = [&quot;images/5M.jpg&quot;, &quot;images/5MO.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images[imgState];
+});
+&lt;/script&gt; 
+&lt;p&gt;
+    &lt;img alt=&quot;Townhall&quot; src=&quot;images/6M.jpg&quot; id=&quot;imgClickAndChange2&quot; /&gt;
+&lt;script&gt;     
+var images2 = [&quot;images/6M.jpg&quot;, &quot;images/6MO.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange2&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images2[imgState];
+});
+&lt;/script&gt; 
+&lt;p&gt;
+    &lt;img alt=&quot;Square2&quot; src=&quot;images/3M.jpg&quot; id=&quot;imgClickAndChange3&quot; /&gt;
+&lt;script&gt;     
+var images3 = [&quot;images/3M.jpg&quot;, &quot;images/3MO.jpg&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange3&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images3[imgState];
+});
+&lt;/script&gt; 
+&lt;p&gt;
+    &lt;img alt=&quot;Church&quot; src=&quot;images/8M.jpg&quot; id=&quot;imgClickAndChange4&quot; /&gt;
+&lt;script&gt;     
+var images4 = [&quot;images/8M.jpg&quot;, &quot;images/8MO.JPG&quot;]
+
+var imgState = 0;
+
+var imgTag = document.getElementById(&quot;imgClickAndChange4&quot;);
+
+imgTag.addEventListener(&quot;click&quot;, function (event) {
+  imgState = (++imgState % images.length);
+  event.target.src = images4[imgState];
+});
+&lt;/script&gt; 
+&lt;h3&gt; Video &lt;/h3&gt;
+Fly-through village:
+&lt;br /&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NgXLj6BLhOU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Musov_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/Musov_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Abandoned village Musov</title><link href="http://localhost:4000/blog/2019/12/16/Lipany-Battle" rel="alternate" type="text/html" title="Abandoned village Musov" /><published>2019-12-16T00:00:00+01:00</published><updated>2019-12-16T00:00:00+01:00</updated><id>http://localhost:4000/blog/2019/12/16/Lipany%20Battle</id><content type="html" xml:base="http://localhost:4000/blog/2019/12/16/Lipany-Battle">&lt;p&gt;This is visualization of abandoned village Musov (Muschau). Village was flooded in year 1978 by water tank Nové Mlýny. Nowadays there is only small island with church left.&lt;/p&gt;
 
 &lt;p&gt;The surface of earth was obtained from vector-based model of contours Zabaged. Dimensions of building was measured from cadastral map and old photographs. Statues was moulded in Mudbox.
 You can download whole modeling procedure text &lt;a href=&quot;https://drive.google.com/file/d/12U5Q1p-7OHgOtkkkM6P-GssGBlXoA1Ia/view?usp=sharing&quot;&gt;here.&lt;/a&gt; (czech language only)&lt;/p&gt;
