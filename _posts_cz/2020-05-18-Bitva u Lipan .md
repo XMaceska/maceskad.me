@@ -12,7 +12,7 @@ ref: lipany
 
 V tomto projektu jsem se věnoval vizualizaci schématu bitvy u Lipan. Bitva u Lipan se odehrála v roce 1436 poblíž vesničky Lipany. Na jedné straně stáli radikální husité a na strně druhé umírnění husité. 
 
-Toto byla moje první práce pro firmu G4D. Hlavním účelem této vizualizace bylo jasně a přehledně představit schéma bitvy u lipan ve 3D. Zákazník si objednal tuto práci u G4D za účelem udělat dojem na komisi při obhajobě své diplomové práce. Diplomová práce zákazníka se věnuje bitvě u Lipan a jak víme, tak vše vypadá lépe ve 3D a proto dostal nápad schéma bitvy vizualizovat ve 3D. Nyní tedy přichází řada na mě. 
+Toto byla moje první práce pro firmu G4D. Hlavním účelem této vizualizace bylo jasně a přehledně představit schéma bitvy u Lipan ve 3D. Zákazník si objednal tuto práci u G4D za účelem udělat dojem na komisi při obhajobě své diplomové práce. Diplomová práce zákazníka se věnuje bitvě u Lipan a jak víme, tak vše vypadá lépe ve 3D a proto dostal nápad schéma bitvy vizualizovat ve 3D. Nyní tedy přichází řada na mě. 
 
 Celý proces modelace byl pro mně vlastně částečně jiný a nový. Prvně jsem se musel vypořádat s absencí některých softwarů, na které jsem byl dříve zvyklý. Já jakožto student, jsem měl vždy přístup ke všem možným softwarům se studentskou licencí a tak jsem si na všechny tyto komerční SW zvykl. Jenže vlastnit všechny komerční SW se firmě prostě nevyplatí. Tento projekt je už opravdu komerční a proto studentskou verzi použít nemohu a všechny licence musí být ok. Naštěstí G4D vlastní licenci Autodesk konkétně balíček ve, kterém je 3ds Max. Na druhou stranu nevlastní Lumion ani Photoshop (V průběhu jsem zjistil, že Gimp je o několik set km dál svojí funkčností, než Photoshop a konečně jsem se od Photoshopu odprostil a začal naplno používat Gimp. Je fakt super).
 
@@ -25,7 +25,7 @@ Následovalo modelování povrchu, především všech potoků, řek a cest, kte
 Nakonec jsem ještě měl problémy s exportem. Jelikož G4D chtělo celý model v .obj pro prezentaci na jejich webové stránce. Naneštěstí všechny možné textury a materiály byl dost komplexní na to, aby export proběhl hladce a jednoduše. Mnoho nastavení v modelu je čitelné pouze pro 3ds Max a tedy po exportu se se model zobrazoval pouze jako geometrie (ještě ke všemu zdeformovaná) bez textur. Naštěstí jsem se naučil jak "vypéct" textury následně se export povedl. 
 
 
-<h3> Renders </h3>
+<h3> Render </h3>
 
 Jen pro ujasnění jak probíhala bitva:
 1 - Začátku proti sobě stály oba tábory radikálních (modří) a umírněních (červení) husitů.
