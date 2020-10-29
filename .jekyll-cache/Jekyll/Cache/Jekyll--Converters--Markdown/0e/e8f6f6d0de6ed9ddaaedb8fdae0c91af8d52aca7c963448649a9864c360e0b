@@ -1,4 +1,4 @@
-I"<p>Na tomto místě se nachází měsíčník obsahující souhrn určitých informací a situací, které se odehrály v konkrétním měsíci.
+I"�<p>Na tomto místě se nachází měsíčník obsahující souhrn určitých informací a situací, které se odehrály v konkrétním měsíci.
 Blog je psán spíše odlehčeným stylem, než neodlehčeným.</p>
 <ul class="listing">
 
@@ -6,6 +6,15 @@ Blog je psán spíše odlehčeným stylem, než neodlehčeným.</p>
   
     
     <li class="listing-seperator">2020</li>
+  
+    <a href="/blo/2020-04-01-Duben">
+    <img src="/images/brezen20_resized.jpg" alt="Březen 2020" title="Březen 2020" /> <a href="/blo/2020-04-01-Duben">
+  <li class="listing-item">
+    <time datetime="post.date">2020-04-01</time>
+    <a href="/blo/2020-04-01-Duben" title="Březen 2020">Březen 2020</a>
+  </li>
+
+  
   
     <a href="/blo/2020-03-01-Brezen">
     <img src="/images/brezen20_resized.jpg" alt="Březen 2020" title="Březen 2020" /> <a href="/blo/2020-03-01-Brezen">
@@ -44,5 +53,5 @@ Blog je psán spíše odlehčeným stylem, než neodlehčeným.</p>
     <a href="/blo/2019-12-01-Prosinec" title="Prosinec 2019">Prosinec 2019</a>
   </li>
 
-</a></a></a></a></a></a></a></a></ul>
+</a></a></a></a></a></a></a></a></a></a></ul>
 :ET
