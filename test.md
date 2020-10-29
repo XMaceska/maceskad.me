@@ -4,6 +4,7 @@ title: test
 permalink: /test/
 lang: en
 ---
+2
 <!DOCTYPE html>
 <html>
 <head>
