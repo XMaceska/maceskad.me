@@ -5,7 +5,7 @@ permalink: /test/
 lang: en
 
 ---
-2
+3
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +21,7 @@ lang: en
 </head>
 
 <body style='margin: 0; overflow: hidden;'>
-<a-scene
+    <a-scene
         vr-mode-ui="enabled: false"
 		embedded
         arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; debugUIEnabled: false;'>
