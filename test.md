@@ -2,7 +2,7 @@
 layout: page
 title: test
 permalink: /test/
-lang:en
+lang: en
 ---
 <!DOCTYPE html>
 <html>
