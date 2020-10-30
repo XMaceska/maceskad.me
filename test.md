@@ -5,7 +5,7 @@ permalink: /test2/
 lang: en
 
 ---
-5
+6
 <!DOCTYPE html>
 <html>
 <head>
