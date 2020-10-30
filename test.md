@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_AR
 title: test
 permalink: /test/
 
@@ -19,7 +19,6 @@ permalink: /test/
         THREEx.ArToolkitContext.baseURL = 'https://raw.githack.com/jeromeetienne/ar.js/master/three.js/'
     </script>
 </head>
-
 <body style='margin: 0; overflow: hidden;'>
     <a-scene
         vr-mode-ui="enabled: false"
