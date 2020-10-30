@@ -1,8 +1,8 @@
 ---
 layout: page
 title: test
-permalink: /test2/
-lang: en
+permalink: /test/
+
 
 ---
 6
