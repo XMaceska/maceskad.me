@@ -1,7 +1,7 @@
 ---
 
-title: test
-permalink: /test/
+title: Test2
+permalink: /test2/
 
 
 ---
