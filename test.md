@@ -1,5 +1,5 @@
 ---
-
+layout: page_AR
 title: test
 permalink: /test/
 
