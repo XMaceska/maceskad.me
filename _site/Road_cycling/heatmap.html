@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Heatmap</title>
+    <meta name="description" content="Personal website">
+
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/Road_cycling/heatmap">
+    <link rel="alternate" type="application/rss+xml" title="David" href="http://localhost:4000/feed.xml" />
+
+    <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+</head>
+
+
+  <body>
+  <div class="page">
+    <header class="site-header">
+    <a class="site-title" href="/">David</a>
+    <nav class="site-nav">
+        <a href="#" class="menu-icon menu.open">
+            <svg viewBox="0 0 18 15">
+                <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+        </a>
+        <div class="trigger">
+            <ul class="menu">
+    
+    
+    <li><a href="" class="page-link">Projects</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/3D_modeling">3D modeling</a></li>
+    
+    <li><a href="/Programming">Programming</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+    <li><a href="" class="page-link">Activities</a>
+    <ul class="sub-menu">
+    
+    <li><a href="/Road_cycling">Road cycling</a></li>
+    
+    </ul>
+    
+    </li>
+    
+    
+     <li><a href="/cv" class="page-link">CV</a>
+    
+    </li>
+    
+</ul>
+
+        </div>
+    </nav>
+</header>
+
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  
+  
+
+  
+  
+
+  
+  
+    
+  
+  
+
+  
+   <a href="/Poster_imja/" class="en">en</a>  <a href="/Road_cycling/heatmap" class="en">en</a> 
+</div>
+
+    <div class="post">
+    <header class="post-header">
+        <h1>Heatmap</h1>
+    </header>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+
+<script src="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js"></script>
+
+<link href="https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css" rel="stylesheet" />
+
+<style>
+    body { margin: 100; padding: 100; }
+    #map { position: absolute; top: 0; bottom: 0; height: 80%; width: 70%; }
+</style>
+
+<!--// map -->
+<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js"></script>
+
+<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+
+<link href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" rel="stylesheet" />
+
+<div id="map"></div>
+
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoibWFjZXNrYSIsImEiOiJja2d1ejZ3NWsweWMzMnZtajhubXRsMGN5In0.rkCvV1tI5xFxTqGuGNh3eQ';
+var map = L.mapbox.map('map',"mapbox.dark")
+L.control.fullscreen().addTo(map);
+
+
+
+var rideStyle = {
+    "color": "#ff6600",
+    "weight": 2,
+    "opacity": .2,
+}
+customLayerRide = L.geoJson(null, {
+    style: rideStyle
+}).addTo(map);
+    
+    
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_4_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_5_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_6_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_7_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_8_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_9_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_10_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_11_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2017_12_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_1_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_2_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_3_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_4_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_5_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_6_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_7_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_8_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_9_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_10_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_11_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2018_12_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+  
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_1_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_2_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_3_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_4_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_5_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_6_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_7_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_8_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_9_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_10_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+    
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_11_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+var runLayer = omnivore.geojson('https://raw.githubusercontent.com/XMaceska/maceskad.me/master/GPX/2019_12_resized.json',null, customLayerRide)
+    .on('ready', function() {
+        map.fitBounds(runLayer.getBounds());
+    })
+    .addTo(map);
+
+
+    
+//<!--// data GPX -->   
+//    for (var i = 1; i < 4; i++){
+//            var runLayer = omnivore.gpx('GPX/' + i.toString() + ".gpx", null, customLayerRide)
+//                .on('ready', function() {
+//                    map.fitBounds(runLayer.getBounds());
+//            })
+//            .addTo(map);    
+//        }
+//var runLayer = omnivore.gpx("2.gpx",null,customLayerRide)
+//    .addTo(map);
+//var runLayer = omnivore.gpx("3.gpx",null,customLayerRide)
+//    .addTo(map);
+
+</script>
+
+
+</div>
+
+
+    <footer class="site-footer">
+    Personal website<br />
+    Using <a href="http://jekyllrb.com/">Jekyll</a>
+    
+     :: <a href="https://github.com/gchauras/much-worse-jekyll-theme">Website source</a>
+    
+    
+    <br>
+    Last edit: 6 December 2020
+</footer>
+
+
+    
+
+    </div>
+  </body>
+
+</html>

@@ -1,0 +1,14 @@
+For post in wrong order (default older first)
+ - {% for post in site.cycl reversed %} -> add reversed
+
+
+
+-- language menu 
+-- this code into header.html
+
+<div class="wrapper" style="text-align: right; line-height: 2em">
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+
+nutný vytvoøit v každý site i post ve front matter položku "lang" kde definuji jazyk a potom položku "ref" pomocí níž propojím dvì site (posty). 
+tzn. dva site(posty musí mít stejný ref.
