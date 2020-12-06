@@ -27,7 +27,7 @@ permalink: /Road_cycling/heatmap
 <div id='map'></div>
 
 <script>
-L.mapbox.accessToken = 'pk.eyJ1IjoibWFjZXNrYSIsImEiOiJjazVhMDFmbGgxMmxnM21wZ3BvNjJhdXMzIn0.OC2jBDlbR4AE1rhBzI__cQ';
+L.mapbox.accessToken = 'pk.eyJ1IjoibWFjZXNrYSIsImEiOiJja2d1ejZ3NWsweWMzMnZtajhubXRsMGN5In0.rkCvV1tI5xFxTqGuGNh3eQ';
 var map = L.mapbox.map('map',"mapbox.dark")
 L.control.fullscreen().addTo(map);
 
