@@ -38,24 +38,9 @@
 
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 
-@media screen and (max-width: 32em) { .site-nav { position: absolute; top: 9px; right: 20px; border: 1px solid #ccc; border-radius: 5px; text-align: right; }
-  .site-nav .menu-icon { display: block; float: right; width: 1.5em; height: 1.25em; line-height: 0; padding-top: 10px; text-align: center; }
-  .site-nav .menu-icon > svg { width: 1.25em; height: 1em; vertical-align: middle; }
-  .site-nav .menu-icon > svg path { fill: #444; }
-  .site-nav .trigger { clear: both; display: none; }
-  .site-nav:hover .trigger { display: block; padding-bottom: 5px; }
-  .site-nav .page-link { display: block; padding: 5px 10px; } }
+@media screen and (max-width: 32em) { .site-nav { position: absolute; top: 9px; right: 20px; border: 1px solid #ccc; border-radius: 5px; text-align: right; } .site-nav .menu-icon { display: block; float: right; width: 1.5em; height: 1.25em; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg { width: 1.25em; height: 1em; vertical-align: middle; } .site-nav .menu-icon > svg path { fill: #444; } .site-nav .trigger { clear: both; display: none; } .site-nav:hover .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; } }
 
-@media screen and (max-width: 32em) { .site-nav h1 { border-bottom: 1px solid #ccc; cursor: pointer; display: none; /* Standard. IE8+, Saf, FF3+ */ height: 23px; left: auto; margin-top: 10px; position: static; white-space: nowrap; }
-  .site-nav .menu { display: block; left: -3px; min-width: 215px; padding: 4px 0; position: relative; right: -3px; z-index: 999; }
-  .site-nav .menu.open { display: block; }
-  .site-nav .menu li { display: block; margin: 0; color: #222; }
-  .site-nav ul.menu a { color: #222; }
-  .site-nav ul.menu a:hover { color: #b6321c; }
-  .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; }
-  .site-nav .menu > li { height: auto; text-align: left; }
-  .site-nav .sub-menu { border: 0; display: block; position: relative; min-width: 215px; max-width: 215px; top: auto; right: auto; width: auto; }
-  .site-nav .sub-menu { padding-left: 16px; } }
+@media screen and (max-width: 32em) { .site-nav h1 { border-bottom: 1px solid #ccc; cursor: pointer; display: none; /* Standard. IE8+, Saf, FF3+ */ height: 23px; left: auto; margin-top: 10px; position: static; white-space: nowrap; } .site-nav .menu { display: block; left: -3px; min-width: 215px; padding: 4px 0; position: relative; right: -3px; z-index: 999; } .site-nav .menu.open { display: block; } .site-nav .menu li { display: block; margin: 0; color: #222; } .site-nav ul.menu a { color: #222; } .site-nav ul.menu a:hover { color: #b6321c; } .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; } .site-nav .menu > li { height: auto; text-align: left; } .site-nav .sub-menu { border: 0; display: block; position: relative; min-width: 215px; max-width: 215px; top: auto; right: auto; width: auto; } .site-nav .sub-menu { padding-left: 16px; } }
 
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -121,7 +106,7 @@ ul.listing li.listing-item a { color: #b6321c; }
 
 @media screen and (max-width: 50em) { .page { max-width: -webkit-calc(50em - (1.5em)); max-width: calc(50em - (1.5em)); min-width: -webkit-calc(15em - (1.5em * 2)); min-width: calc(15em - (1.5em * 2)); } }
 
-.site-header:after, .site-footer:after, .post:after { content: ""; display: table; clear: both; }
+.post:after, .site-header:after, .site-footer:after { content: ""; display: table; clear: both; }
 
 .post { margin-bottom: 1.5em; }
 
