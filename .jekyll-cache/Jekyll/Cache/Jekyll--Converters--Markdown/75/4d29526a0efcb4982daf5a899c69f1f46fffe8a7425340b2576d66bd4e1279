@@ -1,0 +1,12 @@
+I"z<p>Jedná se o 3D model kostelu Sv. Mouřence, který se nachází na Šumavě poblíž Kašperských Hor. Tento projekt je tvořen pro G4D.</p>
+
+<p>Nejprve musím říci, že jsem 3D model dostal v Revitu od G4D a mým cílem bylo vytvořit vizualizaci, ale zároveň umístit kostel na reálné místo za pomocí rozšířené reality.</p>
+
+<p><a href="https://myhub.autodesk360.com/ue2a46f28/g/shares/SH919a0QTf3c32634dcf9220b99a011d2571?fbclid=IwAR2jE7ycaLDM8OqquhtSV_9YNHdYd2qmUKgAStIRJ8iL8kjGzvYezOy0qQs">Původní model</a> byl vytvořen v Revitu se všemi BIM informacemi. Pro mojí práci BIM informace nebyly potřebné a tudíž jsem je ve vizualizaci vůbec nepoužil - převodem do 3ds Maxu jsem o ně i záměrně přišel. POužil jsem pouze polygony modelu. KOmpletní vizualizace byla tvořena v 3ds Maxu. Nejprve jsem musel otexturovat model. Zabralo to dost času, ale nakonec se to povedlo. V tomto případě jsem měl k dizpozici plno kvalitních fotografií reálného objektu.</p>
+
+<p>Další věcí bylo vytvořti prostředí, světla, povrch a okolí kostela. Vše jsem vytvořil v CADu. Render byl proveden ve VRAYi.</p>
+
+<p>Modelován byl rovněž interiér kostelu společně se všemi texturami, vybavením a freskami. Při trasování kamery jsem rovněž vytvořil průlet prostředím s animací otevření dvěří - Díky tomuto projektu jsem se naučil jak animovat CAD objekty.</p>
+
+<p>Nakonec mým cílem bylo vtyvořit projekci kostela v rozšířené realitě. Plán je nahlédnout do interiéru kostela skrze mobilní aplikaci i v době, kdy je kostel zavřený. nejprva jsem zkoušel vytvořet aplikaci pro mobilní tlefony Android, kterou by si potencionální návštěvník musel stáhnout do svého telefonu. Pro toto jsem použil Unity (naučil jsem se díky tomu základy tvorby mobilních aplikací). Fungovalo to poměrně dobře, ALE ne na všecch telefonech</p>
+:ET
