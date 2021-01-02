@@ -12,9 +12,9 @@ Hlavním cílem této webové stránky je stručné shrnutí mých aktivit, kter
 
 Protože se mi zdá, že se toho každý den děje poměrně dost a všechny ty novinky si zapamatovat nedokáži. Napadlo mě vytvořit si osobní stránku, kde právě děj mýho života budu zapisovat. <br>
 
-Objevit se tady dají projekty, na kterých jsem spolupracoval v průběhu mých studií. Příběhy ze zájmů, kterým se věnuji, ale také stránku ve formě blogu, kde každý měsíc shrnu několik zajímavých věcí, který jsem zažil, objevil a s radostí se o ně podělím.<br>
+Objevit se tady dají projekty, na kterých jsem spolupracoval v průběhu mých studií ale také příběhy ze zájmů, kterým se věnuji.<br>
 
-Zrovna teď nyní mi je 26 let, studuji a žiji v Praze. 
+Zrovna teď nyní mi je 27 let, studuji a žiji v Praze. 
 
 ## Kontakt
 
