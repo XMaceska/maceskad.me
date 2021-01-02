@@ -2,7 +2,7 @@
 layout: post
 title: "Kampus Albertov"
 image: /images/School_resized.jpg
-finished: "Not yet (aprox. spring 2020)"
+finished: "Not yet (aprox. spring 2021)"
 SW: "SketchUp 2019, Lumion 9"
 lang: cz
 ref: ref

@@ -24,6 +24,7 @@ http://localhost:4000/test2/
 http://localhost:4000/feed.xml
 http://localhost:4000/css/main.css.map
 
+http://localhost:4000/blog/2020/10/18/Church-of-saint-Moric
 http://localhost:4000/blog/2020/05/18/Lipany-Battle-kopie
 http://localhost:4000/blog/2019/12/16/Musov
 http://localhost:4000/blog/2019/12/16/Campus-Albertov

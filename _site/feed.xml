@@ -1,4 +1,133 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-02T14:44:15+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Lipany battle</title><link href="http://localhost:4000/blog/2020/05/18/Lipany-Battle-kopie" rel="alternate" type="text/html" title="Lipany battle" /><published>2020-05-18T00:00:00+02:00</published><updated>2020-05-18T00:00:00+02:00</updated><id>http://localhost:4000/blog/2020/05/18/Lipany%20Battle%20%20-%20kopie</id><content type="html" xml:base="http://localhost:4000/blog/2020/05/18/Lipany-Battle-kopie">&lt;p&gt;This is project visualizes schema of Lipany battle, which happened at 1436 close to the village Lipany. battle was between radical hussites againts restrained hussites.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-02T17:01:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">David</title><subtitle>Personal website</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><entry xml:lang="en"><title type="html">Church of Saint Moric</title><link href="http://localhost:4000/blog/2020/10/18/Church-of-saint-Moric" rel="alternate" type="text/html" title="Church of Saint Moric" /><published>2020-10-18T00:00:00+02:00</published><updated>2020-10-18T00:00:00+02:00</updated><id>http://localhost:4000/blog/2020/10/18/Church%20of%20saint%20Moric</id><content type="html" xml:base="http://localhost:4000/blog/2020/10/18/Church-of-saint-Moric">&lt;p&gt;This is 3D model of church Saint Moric located in Sumava at south Czechia. Project is beeing made for G4D.&lt;br /&gt;
+First, I have to say, that I got 3D model from the G4D in Revit and my goal was to make vizualization and project church in correct place using augmented reality.&lt;br /&gt;
+&lt;a href=&quot;https://myhub.autodesk360.com/ue2a46f28/g/shares/SH919a0QTf3c32634dcf9220b99a011d2571?fbclid=IwAR2jE7ycaLDM8OqquhtSV_9YNHdYd2qmUKgAStIRJ8iL8kjGzvYezOy0qQs&quot;&gt;Original model&lt;/a&gt; was made in Revit wih all BIM information. For me BIM informations was not important and during my vizualization proces I do not used them on purpose. Using only polygons of the model. Complete vizualization was taking part in SW 3ds Max. Firstly I had to start mapping textures on the model. In this situation it was time consuming, but possible. For this project I got lots of good photos of the church.&lt;br /&gt;
+Next thing was about enviroment, lighting, ground and other items in closed surronding of church. I created it in CAD, did some tweaks in sky, lights and ground texture. Rendering was made by VRAY&lt;br /&gt;
+This model includes also 3D interior with all textures, furnitures and ornaments. I also made camera tracking with effects like opening the front doors. During this job I have learned how to make animations of CAD items.&lt;br /&gt;
+Lastly my goal was to make augmented projection of this church. The main goal is to be able take a look to the inside of the church during the times church is closed. Firstly i thought I would make and application for Android phone, which potentional visitor have to download to his phone. For this purpose I used Unity (I have learned basics of making Android application). It was working well, BUT not on all phones (for example iOS ones) and also downloading some applcation to your phone is not really comfortable.&lt;br /&gt; 
+I came out with idea I could serve augmented reality app on website using github and javascript. It is working on this &lt;a href=&quot;https://xmaceska.github.io/ARTEST/&quot;&gt;SITE&lt;/a&gt;. Morever there is click button which you are able to use for swithing different phases of model. In my opinion it is not bad nor great. Right now I am dealing with problem, that model is randomly skipping close to the correct location. I might have to use some contrains to hold the model in correct location in the place - working on it now. &lt;br /&gt;
+As bonus I made two houses, which were located on the place in the past. I created 3D model and served it on github website. Using augmneted reality website application you are able to see houses, which were on the place in past and not today.&lt;/p&gt;
+
+&lt;h3&gt; Renders &lt;/h3&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/1.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/1.jpg&quot; alt=&quot;Start - as you can see very simple, but already textured roofs&quot; /&gt;
+    &lt;/a&gt;Start - as you can see very simple, but already textured roofs
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/2.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/2.jpg&quot; alt=&quot;Modeling surrondings of church&quot; /&gt;
+    &lt;/a&gt;Modeling surrondings of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/3.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/3.jpg&quot; alt=&quot;Tweaking surrondings of church&quot; /&gt;
+    &lt;/a&gt;Tweaking surrondings of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/4.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/4.jpg&quot; alt=&quot;Different side of church&quot; /&gt;
+    &lt;/a&gt;Different side of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/5.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/5.jpg&quot; alt=&quot;Detail of church&quot; /&gt;
+    &lt;/a&gt;Detail of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/6.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/6.jpg&quot; alt=&quot;Different side of church&quot; /&gt;
+    &lt;/a&gt;Different side of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/7.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/7.jpg&quot; alt=&quot;Different side of church&quot; /&gt;
+    &lt;/a&gt;Different side of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/8.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/8.jpg&quot; alt=&quot;Interior of church&quot; /&gt;
+    &lt;/a&gt;Interior of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/9.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/9.jpg&quot; alt=&quot;Interior of church&quot; /&gt;
+    &lt;/a&gt;Interior of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/10.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/10.jpg&quot; alt=&quot;Interior of church&quot; /&gt;
+    &lt;/a&gt;Interior of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/11.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/11.jpg&quot; alt=&quot;Interior of church&quot; /&gt;
+    &lt;/a&gt;Interior of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/12.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/12.jpg&quot; alt=&quot;Interior of church&quot; /&gt;
+    &lt;/a&gt;Interior of church
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/13.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/13.jpg&quot; alt=&quot;Augmented reality web mobile application&quot; /&gt;
+    &lt;/a&gt;Augmented reality web mobile application
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/14.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/14.jpg&quot; alt=&quot;Augmented reality web mobile application&quot; /&gt;
+    &lt;/a&gt;Augmented reality web mobile application
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;captioned-img aligncenter&quot;&gt;
+    &lt;a href=&quot;images/15.jpg&quot;&gt;
+    
+    &lt;img src=&quot;images/15.jpg&quot; alt=&quot;Augmented reality web mobile application&quot; /&gt;
+    &lt;/a&gt;Augmented reality web mobile application
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;facebook&quot;=&gt;nil, &quot;scholar&quot;=&gt;nil}</name></author><summary type="html">This is 3D model of church Saint Moric located in Sumava at south Czechia. Project is beeing made for G4D. First, I have to say, that I got 3D model from the G4D in Revit and my goal was to make vizualization and project church in correct place using augmented reality. Original model was made in Revit wih all BIM information. For me BIM informations was not important and during my vizualization proces I do not used them on purpose. Using only polygons of the model. Complete vizualization was taking part in SW 3ds Max. Firstly I had to start mapping textures on the model. In this situation it was time consuming, but possible. For this project I got lots of good photos of the church. Next thing was about enviroment, lighting, ground and other items in closed surronding of church. I created it in CAD, did some tweaks in sky, lights and ground texture. Rendering was made by VRAY This model includes also 3D interior with all textures, furnitures and ornaments. I also made camera tracking with effects like opening the front doors. During this job I have learned how to make animations of CAD items. Lastly my goal was to make augmented projection of this church. The main goal is to be able take a look to the inside of the church during the times church is closed. Firstly i thought I would make and application for Android phone, which potentional visitor have to download to his phone. For this purpose I used Unity (I have learned basics of making Android application). It was working well, BUT not on all phones (for example iOS ones) and also downloading some applcation to your phone is not really comfortable. I came out with idea I could serve augmented reality app on website using github and javascript. It is working on this SITE. Morever there is click button which you are able to use for swithing different phases of model. In my opinion it is not bad nor great. Right now I am dealing with problem, that model is randomly skipping close to the correct location. I might have to use some contrains to hold the model in correct location in the place - working on it now. As bonus I made two houses, which were located on the place in the past. I created 3D model and served it on github website. Using augmneted reality website application you are able to see houses, which were on the place in past and not today.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/Moric_resized.jpg" /><media:content medium="image" url="http://localhost:4000/images/Moric_resized.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Lipany battle</title><link href="http://localhost:4000/blog/2020/05/18/Lipany-Battle-kopie" rel="alternate" type="text/html" title="Lipany battle" /><published>2020-05-18T00:00:00+02:00</published><updated>2020-05-18T00:00:00+02:00</updated><id>http://localhost:4000/blog/2020/05/18/Lipany%20Battle%20%20-%20kopie</id><content type="html" xml:base="http://localhost:4000/blog/2020/05/18/Lipany-Battle-kopie">&lt;p&gt;This is project visualizes schema of Lipany battle, which happened at 1436 close to the village Lipany. battle was between radical hussites againts restrained hussites.&lt;/p&gt;
 
 &lt;p&gt;That was my first project assigned by G4D. Main purpose of this visualization was to clearly present schema of Lipany battle in 3D. Customer ordered this assigment at G4D to impress jury, while he was vindicating his diploma thesis. His diploma thesis is related to Lipany battle and everything always look better in 3D, thats why he got idea to visualize the battle in 3D. And now thats my job to do it.&lt;/p&gt;
 
