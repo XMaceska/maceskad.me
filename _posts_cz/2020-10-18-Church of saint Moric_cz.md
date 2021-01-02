@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kostel sv. Mořice"
+title: Kostel sv. Mouřence
 image: /images/Moric_resized.jpg
 SW: "3ds Max 2020"
 finished: not yet
