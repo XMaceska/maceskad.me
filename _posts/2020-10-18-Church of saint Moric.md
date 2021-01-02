@@ -36,8 +36,6 @@ As bonus I made two houses, which were located on the place in the past. I creat
 <br>
 {% include image.html url="images/8.jpg" caption="Interior of church" max_width="300px" align="center" %}
 <br>
-{% include image.html url="images/9.jpg" caption="Interior of church" max_width="300px" align="center" %}
-<br>
 {% include image.html url="images/10.jpg" caption="Interior of church" max_width="300px" align="center" %}
 <br>
 {% include image.html url="images/11.jpg" caption="Interior of church" max_width="300px" align="center" %}
